@@ -1,6 +1,8 @@
 
 
-# Released research code:
+# Publications
+
+## Released research code:
 
 - RefineNet for semantic segmentation, CVPR 2017     
 Our source code and trained models are available at:   
@@ -31,7 +33,6 @@ The following code provides the implementation of cutting-plane and an example o
 ***Code: <https://bitbucket.org/guosheng/fastmultiboostcw>***
 
 
-# Publications
 
 ## Preprints:
 
