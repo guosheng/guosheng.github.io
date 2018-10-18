@@ -3,14 +3,14 @@
 
 ## Preprints:
 
-- Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation;
-Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot; 2018; [arXiv]
+- Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;  
+Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation; 2018; [arXiv]  
 
-- Correlation Propagation Networks for Scene Text Detection;
-Zichuan Liu, Guosheng Lin*, Wang Ling Goh, Fayao Liu, Chunhua Shen, Xiaokang Yang; 2018; [arXiv]
+- Zichuan Liu, Guosheng Lin*, Wang Ling Goh, Fayao Liu, Chunhua Shen, Xiaokang Yang;   
+Correlation Propagation Networks for Scene Text Detection;  2018; [arXiv]  
 
-- Keypoint Based Weakly Supervised Human Parsing;
-Zhonghua Wu, Guosheng Lin*, Jianfei Cai; 2018; [arXiv]
+- Zhonghua Wu, Guosheng Lin*, Jianfei Cai;  
+Keypoint Based Weakly Supervised Human Parsing; 2018; [arXiv]  
 
 
 
