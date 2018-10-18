@@ -1,3 +1,5 @@
+<img src="https://guosheng.github.io/my_pic.jpg" height="200" style="float: right;">
+
 Guosheng Lin  
 Assistant Professor  
 
@@ -44,6 +46,4 @@ If you are interested, please email me with your CV for enquiries.
 ## Publications
 [Link](https://guosheng.github.io/pub)
 
-
-<img src="https://guosheng.github.io/my_pic.jpg" height="200" style="float: right;">
 
