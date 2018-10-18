@@ -18,5 +18,5 @@
 I also closely working with the following students:  
 - Zhonghua Wu, Tianyi Zhang, Fengmao Lv, Sheng Yang
 
-## Alumi
+## Graduated students
 - Dr. Tong Shen (co-supervised PhD student from The University of Adelaide)
