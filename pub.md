@@ -1,6 +1,34 @@
 
-
 # Publications
+
+
+## Released research code:
+
+- RefineNet for semantic segmentation, CVPR 2017     
+***<https://github.com/guosheng/refinenet>*** 
+
+- FastHash for supervised hashing (binary code/representation learning), CVPR 2014, TPAMI 2015  
+***Code: <https://bitbucket.org/chhshen/fasthash/>***
+
+- Deep Convolutional Neural Fields (DCNF) for Depth Estimation from a Single Image; CVPR 2015, TPAMI 2016  
+***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
+
+- Structured hashing (StructHash) for supervised hashing (binary code/representation learning), ECCV 2014, IJCV 2017  
+***Code: <https://bitbucket.org/guosheng/structhash>***  
+
+- Two-step hashing (TSH) for supervised hashing (binary code/representation learning), ICCV 2013     
+***Code: <https://bitbucket.org/guosheng/twostephashing>***
+
+- Column generation hashing (CGH) for supervised hashing (binary code/representation learning), ICML 2014  
+***Code: <https://bitbucket.org/guosheng/columngenerationhashing/>***
+
+- StructBoost for boosting based structured learning, TPAMI 2014,  
+The following code provides the implementation of cutting-plane and an example of column generation:  
+***Code: <https://bitbucket.org/guosheng/structhash>***
+
+- Effective multiclass boosting for multiclass classification, ACCV 2012,  
+***Code: <https://bitbucket.org/guosheng/fastmultiboostcw>***
+
 
 ## Preprints:
 
@@ -37,7 +65,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018;
 - Anton Milan, et al;  
 Semantic segmentation from limited training data;  
 IEEE International Conference on Robotics and Automation (ICRA), 2018; ; [To appear];  
-*** Winning solution based on our RefineNet for Amazon Robotics Challenge (ARC) 2017 ***
+***Winning solution based on our RefineNet for Amazon Robotics Challenge (ARC) 2017***   
 
 - Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;  
 RefineNet: MultiPath Refinement Networks for HighResolution Semantic Segmentation;  
@@ -87,7 +115,7 @@ The 6th international Workshop on Computer Vision in Vehicle Technology, CVPR201
 - Guosheng Lin, Chunhua Shen, Qinfeng Shi, Anton van den Hengel and David Suter;   
 Fast Supervised Hashing with Decision Trees for HighDimensional Data;  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014;   
-***Code: <https://bitbucket.org/chhshen/fasthash/>****
+***Code: <https://bitbucket.org/chhshen/fasthash/>***
 
 - Guosheng Lin,  Chunhua Shen, Jianxin Wu;  
 Optimizing Ranking Measures For Compact Binary Code Learning;  
