@@ -1,11 +1,12 @@
 
-# Publications
 
-
-## Released research code:
+# Released research code:
 
 - RefineNet for semantic segmentation, CVPR 2017     
-***<https://github.com/guosheng/refinenet>*** 
+Our source code and trained models are available at:   
+(MATLAB based framework for semantic segmentation and dense preidction)
+***<https://github.com/guosheng/refinenet>***   
+
 
 - FastHash for supervised hashing (binary code/representation learning), CVPR 2014, TPAMI 2015  
 ***Code: <https://bitbucket.org/chhshen/fasthash/>***
@@ -29,6 +30,8 @@ The following code provides the implementation of cutting-plane and an example o
 - Effective multiclass boosting for multiclass classification, ACCV 2012,  
 ***Code: <https://bitbucket.org/guosheng/fastmultiboostcw>***
 
+
+# Publications
 
 ## Preprints:
 
