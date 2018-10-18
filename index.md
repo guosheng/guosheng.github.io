@@ -7,7 +7,7 @@ School of Computer Science and Engineering,
 Nanyang Technological University, Singapore.  
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com  
 
-![Image](https://guosheng.github.io/my_pic.jpg)
+![Image](https://guosheng.github.io/my_pic.jpg =100x)
 
 ***Research interests***: machine learning, computer vision, visual recognition, scene understanding, etc.  
 
@@ -33,7 +33,7 @@ If you are interested, please email me with your CV for enquiries.
 2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
 
 ## Services  
-1. ACCV 2018 Local Arrangement Chair, [Link](http://accv2018.net/people/ | width=20)
+1. ACCV 2018 Local Arrangement Chair, [Link](http://accv2018.net/people/)
 2. Reviewers for CVPR, TPAMI, IJCV, TIP, TMM, etc.  
 
 ## Research grants 
