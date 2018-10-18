@@ -38,12 +38,15 @@ If you are interested, please email me with your CV for enquiries.
 3. Singtel-NTU research grant. (Co-PI)  
 4. AI.Singapore research grant. (PI)  
 
-## Research group member
-[Link]()
+## Research group members
+[Link](https://guosheng.github.io/group)
 
 ## Publications
-[Link]()
+[Link](https://guosheng.github.io/pub)
 
 
-![](https://guosheng.github.io/my_pic.jpg)
+<img src="https://guosheng.github.io/my_pic.jpg" height="80">
+
+[//]: # (![](https://guosheng.github.io/my_pic.jpg))
+
 
