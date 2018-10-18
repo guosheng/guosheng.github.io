@@ -43,9 +43,9 @@ IEEE International Conference on Robotics and Automation (ICRA), 2018; ; [To app
 RefineNet: MultiPath Refinement Networks for HighResolution Semantic Segmentation;  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017;    
 Top performance on PASCAL VOC 2012 dataset.  
-***Our source code and trained models are available at:   
-<https://github.com/guosheng/refinenet>   
-(MATLAB based framework for semantic segmentation and dense preidction)***
+***Our source code and trained models are available at:***   
+***<https://github.com/guosheng/refinenet>***   
+***(MATLAB based framework for semantic segmentation and dense preidction)***
 
 - Yao Li, Guosheng Lin, Bohan Zhuang, Lingqiao Liu, Chunhua Shen, Anton van den Hengel;  
 Sequential Person Recognition in Photo Albums with a Recurrent Network;  
@@ -92,8 +92,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014;
 - Guosheng Lin,  Chunhua Shen, Jianxin Wu;  
 Optimizing Ranking Measures For Compact Binary Code Learning;  
 European Conference on Computer Vision (ECCV), 2014;  
-***Code: <https://bitbucket.org/guosheng/structhash>  
-Extensions of this method for efficient training are also included.***  
+***Code: <https://bitbucket.org/guosheng/structhash>***  
+***Extensions of this method for efficient training are also included.***  
 
 - Guosheng Lin, Chunhua Shen, David Suter and Anton van den Hengel;  
 A General TwoStep Approach to LearningBased Hashing;  
@@ -169,7 +169,7 @@ Pattern Recognition (PR), 2015;
 - Chunhua Shen, Guosheng Lin, Anton van den Hengel;   
 StructBoost: Boosting Methods For Predicting Structured Output Variables;  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;  
-***The following code provides the implementation of cutting-plane and an example of column generation:  
-<https://bitbucket.org/guosheng/structhash>***  
+***The following code provides the implementation of cutting-plane and an example of column generation:***  
+***<https://bitbucket.org/guosheng/structhash>***  
 
 
