@@ -3,8 +3,9 @@
 Guosheng Lin  
 Assistant Professor  
 
-Block N4, 02c-93, School of Computer Science and Engineering,  
-Nanyang Technological University, Singapore.  
+Block N4, 02c-93,  
+School of Computer Science and Engineering,  
+Nanyang Technological University, Singapore.   
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com  
 
 ***Research interests***:  
