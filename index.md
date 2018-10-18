@@ -1,4 +1,4 @@
-## Welcome
+
 
 ## Guosheng Lin
 
@@ -8,7 +8,17 @@ School of Computer Science and Engineering,
 Nanyang Technological University, Singapore.
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com
 
+Research interests: applied machine learning, computer vision, visual recognition, scene understanding, etc.
 
+2017-present: Assistant Professor, Nanyang Technological University, Singapore.
+2014-2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide.
+2010-2014: PhD stduent, The University of Adelaide.
+
+
+## Join our group
+
+I occasionally have openings for interns, research assistants and PhD students. 
+If you are interested, please email me with your CV for enquiries.
 
 ### Markdown
 
