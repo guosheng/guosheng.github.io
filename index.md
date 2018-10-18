@@ -1,18 +1,20 @@
 
 
 Guosheng Lin  
+
 Assistant Professor  
 Block N4, 02c-93,  
 School of Computer Science and Engineering,  
 Nanyang Technological University, Singapore.  
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com  
 
-Research interests:   
-applied machine learning, computer vision, visual recognition, scene understanding, etc.  
+Research interests: machine learning, computer vision, visual recognition, scene understanding, etc.  
 
 - 2017-present: Assistant Professor, Nanyang Technological University, Singapore.  
 - 2014-2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide.  
+Closely working with - Prof. Chunhua shen, - Prof. Ian Reid, and - Prof. Anton v.d. Hengel
 - 2010-2014: PhD stduent, The University of Adelaide.  
+Supervisors:  Prof. Chunhua Shen (principal), Prof. David Suter and Prof.Tat-Jun Chin.  
 
 
 
