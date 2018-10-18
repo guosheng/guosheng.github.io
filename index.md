@@ -8,50 +8,42 @@ School of Computer Science and Engineering,
 Nanyang Technological University, Singapore.  
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com  
 
-Research interests: machine learning, computer vision, visual recognition, scene understanding, etc.  
+***Research interests***: machine learning, computer vision, visual recognition, scene understanding, etc.  
 
+***Google citations***: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)  
+
+***Experiences****:
 - 2017 - present: Assistant Professor, Nanyang Technological University, Singapore.  
 - 2014 - 2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide.  
 Closely working with Prof. Chunhua shen, Prof. Ian Reid, and Prof. Anton v.d. Hengel  
 - 2010 - 2014: PhD stduent, The University of Adelaide.  
 Supervisors:  Prof. Chunhua Shen (principal), Prof. David Suter and Prof.Tat-Jun Chin.  
 
-***Google citations***: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)
+***Awards****:  
+Google PhD fellowship, Australia, 2014, [Link](http://google-au.blogspot.com.au/2014/06/two-australians-selected-for-google-phd.html) or [Link](http://googleresearch.blogspot.com.au/2014/06/2014-google-phd-fellowships-supporting.html).  
+
+***Teaching****:  
+1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), Semester 2, 2015, University of Adelaide (Guest lecturer)
+2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
+
+***Services****:  
+1. ACCV 2018 Local Arrangement Chair [link](http://accv2018.net/people/)  
+2. Reviewers for CVPR, TPAMI, IJCV, TIP, TMM, etc.  
+
+***Research grants****:  
+1. NTU Start-Up grant. (PI)  
+2. Singapore MOE Tier-1 grant. (PI)  
+3. Singtel-NTU research grant. (Co-PI)  
+4. AI.Singapore research grant. (PI)  
 
 
 ## Join our group
+I occasionally have openings for interns, research assistants and PhD students.  
+If you are interested, please email me with your CV for enquiries.  
 
-I occasionally have openings for interns, research assistants and PhD students. 
-If you are interested, please email me with your CV for enquiries.
+## Research group member
+## Publications
 
-### Markdown
+![Image]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guosheng/guosheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
