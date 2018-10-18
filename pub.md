@@ -4,7 +4,7 @@
 
 - RefineNet for semantic segmentation, CVPR 2017     
 Our source code and trained models are available at:   
-(MATLAB based framework for semantic segmentation and dense preidction)
+(MATLAB based framework for semantic segmentation and dense preidction)   
 ***<https://github.com/guosheng/refinenet>***   
 
 
