@@ -92,7 +92,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014;
 - Guosheng Lin,  Chunhua Shen, Jianxin Wu;  
 Optimizing Ranking Measures For Compact Binary Code Learning;  
 European Conference on Computer Vision (ECCV), 2014;  
-*** Code: <https://bitbucket.org/guosheng/structhash>  
+***Code: <https://bitbucket.org/guosheng/structhash>  
 Extensions of this method for efficient training are also included.***  
 
 - Guosheng Lin, Chunhua Shen, David Suter and Anton van den Hengel;  
@@ -137,7 +137,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017;
 
 - Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen;   
 Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures;  
-International Journal of Computer Vision (IJCV); 2017; 
+International Journal of Computer Vision (IJCV); 2017;   
 ***Code: <https://bitbucket.org/guosheng/structhash>***
 
 - Fayao Liu, Guosheng Lin*, Chunhua Shen;   
