@@ -15,8 +15,8 @@
 - Ruibo Li (Huazhong University of Science and Technology)
 
 ## Collaborations
-I also closely working with the following students:  
-- Zhonghua Wu, Tianyi Zhang, Fengmao Lv, Sheng Yang
+I'm also closely working with the following students:  
+- Tianyi Zhang, Zhonghua Wu, Fengmao Lv, Sheng Yang
 
 ## Graduated students
 - Dr. Tong Shen (co-supervised PhD student from The University of Adelaide)
