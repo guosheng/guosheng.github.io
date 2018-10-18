@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/guosheng/guosheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Guosheng Lin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Assistant Professor
+Block N4, 02c-93, 
+School of Computer Science and Engineering, 
+Nanyang Technological University, Singapore.
+E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com
+
+
 
 ### Markdown
 
