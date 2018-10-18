@@ -41,8 +41,8 @@ IEEE International Conference on Robotics and Automation (ICRA), 2018; ; [To app
 
 - Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;  
 RefineNet: MultiPath Refinement Networks for HighResolution Semantic Segmentation;  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017;   
-Top performance on PASCAL VOC 2012 dataset (Links: Leaderboard).
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017;    
+Top performance on PASCAL VOC 2012 dataset.  
 ***Our source code and trained models are available at:   
 <https://github.com/guosheng/refinenet>   
 (MATLAB based framework for semantic segmentation and dense preidction)***
@@ -76,7 +76,7 @@ Advances in Neural Information Processing Systems (NIPS), 2015,
 
 - Fayao Liu, Chunhua Shen, Guosheng Lin;  
 Deep Convolutional Neural Fields for Depth Estimation from a Single Image;  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015; 
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015;  
 ***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
 
 - Michael Milford, Chunhua Shen, Stephanie Lowry, Niko Suenderhauf, Sareh Shirazi, Guosheng Lin, Fayao Liu, 
@@ -101,9 +101,7 @@ International Conference on Computer Vision  (ICCV), 2013;
 ***Code: <https://bitbucket.org/guosheng/twostephashing>***
 
 - Xi Li*, Guosheng Lin*, Chunhua Shen, Anton van den Hengel and Anthony Dick;   
-***
-( * indicates equal contribution ); 
-***
+***( * indicates equal contribution );***
 Learning Hash Functions Using Column Generation;  
 International Conference on Machine Learning (ICML), 2013; Oral Presentation;   
 ***Code: <https://bitbucket.org/guosheng/columngenerationhashing/>***
@@ -113,7 +111,7 @@ Approximate Constraint Generation for Efficient Structured Boosting;
 International Conference on Image Processing (ICIP), 2013;   
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel and David Suter;  
-Fast Training of Effective Multiclass Boosting Using Coordinate Descent Optimization;  
+Fast Training of Effective Multiclass Boosting Using Coordinate Descent Optimization;   
 Asian Conference on Computer Vision (ACCV), 2012;   
 ***Code: <https://bitbucket.org/guosheng/fastmultiboostcw>***
 
@@ -162,16 +160,16 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); 2016;
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel;   
 Supervised Hashing Using Graph Cuts and Boosted Decision Trees;  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2015;  
-***Code: <https://bitbucket.org/chhshen/fasthash/>***
+***Code: <https://bitbucket.org/chhshen/fasthash/>***  
 
 - Fayao Liu, Guosheng Lin, Chunhua Shen;  
 CRF Learning with CNN Features for Image Segmentation;  
-Pattern Recognition (PR), 2015; 
+Pattern Recognition (PR), 2015;  
 
 - Chunhua Shen, Guosheng Lin, Anton van den Hengel;   
 StructBoost: Boosting Methods For Predicting Structured Output Variables;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;  
 ***The following code provides the implementation of cutting-plane and an example of column generation:  
-<https://bitbucket.org/guosheng/structhash>***
+<https://bitbucket.org/guosheng/structhash>***  
 
 
