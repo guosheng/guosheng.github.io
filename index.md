@@ -43,9 +43,9 @@ If you are interested, please email me with your CV for enquiries.
 2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
 
 ## Research group members
-[Link](https://guosheng.github.io/group)
+[Link](https://guosheng.github.io/group.md)
 
 ## Publications
-[Link](https://guosheng.github.io/pub)
+[Link](https://guosheng.github.io/pub.md)
 
 
