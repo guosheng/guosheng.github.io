@@ -1,5 +1,5 @@
 
-<img src="https://guosheng.github.io/my_pic.jpg" height="200" style="float: right;" href="https://guosheng.github.io/my_pic.jpg">
+[<img src="https://guosheng.github.io/my_pic.jpg" height="200" style="float: right;">](https://guosheng.github.io/my_pic.jpg)
 
 Guosheng Lin  
 Assistant Professor  
