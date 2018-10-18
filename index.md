@@ -45,8 +45,5 @@ If you are interested, please email me with your CV for enquiries.
 [Link](https://guosheng.github.io/pub)
 
 
-<img src="https://guosheng.github.io/my_pic.jpg" height="80">
-
-[//]: # (![](https://guosheng.github.io/my_pic.jpg))
-
+<img src="https://guosheng.github.io/my_pic.jpg" height="200" style="float: right;">
 
