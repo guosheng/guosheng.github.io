@@ -33,7 +33,7 @@ If you are interested, please email me with your CV for enquiries.
 2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
 
 ## Services  
-1. ACCV 2018 Local Arrangement Chair, [Link](http://accv2018.net/people/)  
+1. ACCV 2018 Local Arrangement Chair, [Link](http://accv2018.net/people/ | width=100)
 2. Reviewers for CVPR, TPAMI, IJCV, TIP, TMM, etc.  
 
 ## Research grants 
