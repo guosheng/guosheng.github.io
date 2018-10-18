@@ -7,7 +7,7 @@
 - RefineNet for semantic segmentation, CVPR 2017     
 Our source code and trained models are available at:   
 (MATLAB based framework for semantic segmentation and dense preidction)   
-***<https://github.com/guosheng/refinenet>***   
+***Code: <https://github.com/guosheng/refinenet>***   
 
 
 - FastHash for supervised hashing (binary code/representation learning), CVPR 2014, TPAMI 2015  
