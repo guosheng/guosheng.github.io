@@ -12,7 +12,9 @@ E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com
 #### Research interests:  
 machine learning, computer vision, visual recognition, scene understanding, etc.   
 
-#### Google citations: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)  
+#### Google citations: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)    
+
+
 
 ## Join our group
 I occasionally have openings for interns, research assistants, PhD students and Postdoc researchers.  
