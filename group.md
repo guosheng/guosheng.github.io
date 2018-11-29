@@ -1,5 +1,5 @@
 
-# Research group members
+# Research group
 
 ## PhD students
 - Zichuan Liu (PhD student from EEE, co-supervised)
@@ -10,12 +10,14 @@
 - Jiacheng Wei (PhD student from EEE, co-supervised)
 
 ## Visiting students
+- Fengmao Lv (University of Electronic Science and Technology of China, co-supervised)
 - Haonan Luo (Nanjing University of Science and Technology)
 - Ruibo Li (Huazhong University of Science and Technology)
 
+
 ## Collaborations
 I'm also closely working with the following students:  
-- Tianyi Zhang, Zhonghua Wu, Fengmao Lv, Sheng Yang
+- Tianyi Zhang, Zhonghua Wu, Sheng Yang
 
 ## Former group members
 - Tong Shen (graduated PhD student, co-supervised PhD student from The University of Adelaide)
