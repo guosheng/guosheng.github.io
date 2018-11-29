@@ -33,7 +33,7 @@ The following code provides the implementation of cutting-plane and an example o
 
 
 ## Preprints:
-- Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;
+- Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;  
 Discrimination-aware Channel Pruning for Deep Neural Networks; 2018
 
 - Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;  
