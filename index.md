@@ -17,8 +17,7 @@ machine learning, computer vision, visual recognition, scene understanding, etc.
 
 
 ## Join our group
-I occasionally have openings for interns, research assistants, PhD students and Postdoc researchers.  
-If you are interested, please email me with your CV for enquiries.  
+I occasionally have openings for interns, research assistants, PhD students and Postdoc researchers. Please email me with your CV for enquiries.  
 
 ## Experience
 1. 2017 - present: Assistant Professor, Nanyang Technological University, Singapore.  
@@ -40,7 +39,7 @@ If you are interested, please email me with your CV for enquiries.
 4. AI.Singapore research grant. (PI)  
 
 ## Teaching  
-1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), Semester 2, 2015, University of Adelaide (Guest lecturer)
+1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), 2015/2016, University of Adelaide (Guest lecturer)
 2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
 
 ## Research group members
