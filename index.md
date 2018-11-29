@@ -28,6 +28,12 @@ I occasionally have openings for interns, research assistants, PhD students and 
 1. Google PhD fellowship, Australia, 2014, [Link](http://google-au.blogspot.com.au/2014/06/two-australians-selected-for-google-phd.html) or [Link](http://googleresearch.blogspot.com.au/2014/06/2014-google-phd-fellowships-supporting.html).  
 2. Dean's Commendation for Doctoral Thesis Excellence, The University of Adelaide, 2014
 
+## Research group members
+[Link](https://guosheng.github.io/group)
+
+## Publications
+[Link](https://guosheng.github.io/pub)
+
 ## Services  
 1. ACCV 2018 Local Arrangement Chair, [Link](http://accv2018.net/people/)
 2. Reviewers for CVPR, TPAMI, IJCV, TIP, TMM, etc.  
@@ -42,10 +48,5 @@ I occasionally have openings for interns, research assistants, PhD students and 
 1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), 2015/2016, University of Adelaide (Guest lecturer)
 2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
 
-## Research group members
-[Link](https://guosheng.github.io/group)
-
-## Publications
-[Link](https://guosheng.github.io/pub)
 
 
