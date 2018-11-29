@@ -1,6 +1,5 @@
 
 
-# Publications
 
 ## Released research code:
 
@@ -8,7 +7,6 @@
 Our source code and trained models are available at:   
 (MATLAB based framework for semantic segmentation and dense preidction)   
 ***Code: <https://github.com/guosheng/refinenet>***   
-
 
 - FastHash for supervised hashing (binary code/representation learning), CVPR 2014, TPAMI 2015  
 ***Code: <https://bitbucket.org/chhshen/fasthash/>***
@@ -35,6 +33,8 @@ The following code provides the implementation of cutting-plane and an example o
 
 
 ## Preprints:
+- Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;
+Discrimination-aware Channel Pruning for Deep Neural Networks; 2018
 
 - Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;  
 Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation; 2018;   
