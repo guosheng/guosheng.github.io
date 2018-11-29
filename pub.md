@@ -33,7 +33,7 @@ The following code provides the implementation of cutting-plane and an example o
 
 
 ## Preprints:
-- Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;  
+- Zhonghua Wu, Guosheng Lin*, Qingyi Tao, Jianfei Cai;  
 M2E-Try On Net: Fashion from Model to Everyone; 2018
 
 - Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;  
