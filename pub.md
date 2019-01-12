@@ -89,8 +89,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017;
 Weakly Supervised Semantic Segmentation Based on Cosegmentation;  
 The British Machine Vision Conference (BMVC) 2017;   
 
-- Tong Shen *, Guosheng Lin *, Chunhua Shen, Ian Reid;  
-***( * indicates equal contribution )***  
+- Tong Shen*, Guosheng Lin*, Chunhua Shen, Ian Reid;  
+***( &lowast indicates equal contribution )***  
 Learning Multilevel Region Consistency with Dense Multilabel Networks for Semantic Segmentation;   
 International Joint Conference on Artificial Intelligence (IJCAI) 2017; 
 
@@ -134,7 +134,7 @@ A General TwoStep Approach to LearningBased Hashing;
 International Conference on Computer Vision  (ICCV), 2013;   
 ***Code: <https://bitbucket.org/guosheng/twostephashing>***
 
-- Xi Li *, Guosheng Lin *, Chunhua Shen, Anton van den Hengel and Anthony Dick;   
+- Xi Li*, Guosheng Lin*, Chunhua Shen, Anton van den Hengel and Anthony Dick;   
 ***( * indicates equal contribution );***
 Learning Hash Functions Using Column Generation;  
 International Conference on Machine Learning (ICML), 2013; Oral Presentation;   
