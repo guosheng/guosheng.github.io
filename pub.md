@@ -156,7 +156,7 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
-- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;   
+- Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
 RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;    
 ***Code: <https://github.com/guosheng/refinenet>***   
