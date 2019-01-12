@@ -5,7 +5,7 @@
 
 ## Released research code:
 
-- RefineNet for semantic segmentation, CVPR 2017     
+- RefineNet for semantic segmentation, CVPR 2017, TPAMI 2019     
 Our source code and trained models are available at:   
 (MATLAB based framework for semantic segmentation and dense preidction)   
 ***Code: <https://github.com/guosheng/refinenet>***   
@@ -70,7 +70,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018;
 
 - Anton Milan, et al;  
 Semantic segmentation from limited training data;  
-IEEE International Conference on Robotics and Automation (ICRA), 2018; ; [To appear];  
+IEEE International Conference on Robotics and Automation (ICRA), 2018; ;   
 ***Winning solution based on our RefineNet for Amazon Robotics Challenge (ARC) 2017***   
 
 - Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;  
@@ -156,14 +156,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
-
-- Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
-SemanticsAware Visual Object Tracking;  
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;  
-
-- Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
-Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;  
-Pattern Recognition (PR), 2018; ; 
+- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;   
+RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;    
+***Code: <https://github.com/guosheng/refinenet>***   
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
 Exploring Context with Deep Structured models for Semantic Segmentation;  
@@ -174,6 +170,33 @@ Structured Learning of Binary Codes with Column Generation for Optimizing Rankin
 International Journal of Computer Vision (IJCV); 2017;   
 ***Code: <https://bitbucket.org/guosheng/structhash>***
 
+- Fayao Liu, Chunhua Shen, Guosheng Lin, Ian Reid;  
+Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI); 2016;  
+***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
+
+- Guosheng Lin, Chunhua Shen, Anton van den Hengel;   
+Supervised Hashing Using Graph Cuts and Boosted Decision Trees;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2015;  
+***Code: <https://bitbucket.org/chhshen/fasthash/>*** 
+
+- Chunhua Shen, Guosheng Lin, Anton van den Hengel;   
+StructBoost: Boosting Methods For Predicting Structured Output Variables;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;  
+***The following code provides the implementation of cutting-plane and an example of column generation:***  
+***<https://bitbucket.org/guosheng/structhash>***  
+
+
+-----------------------------------------------------
+
+- Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
+SemanticsAware Visual Object Tracking;  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;  
+
+- Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
+Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;  
+Pattern Recognition (PR), 2018; ; 
+
 - Fayao Liu, Guosheng Lin*, Chunhua Shen;   
 Discriminative Training of Deep Fullyconnected Continuous CRF with Taskspecific Loss;  
 IEEE Transactions on Image Processing (TIP), 2017; 
@@ -182,28 +205,19 @@ IEEE Transactions on Image Processing (TIP), 2017;
 Structured Learning of Tree Potentials in CRF for Image Segmentation;  
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2017; 
 
-- Fayao Liu, Chunhua Shen, Guosheng Lin, Ian Reid;  
-Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI); 2016;  
-***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
-
 - Biyun Sheng, Chunhua Shen, Guosheng Lin, Jun Li, Wankou Yang, Changyin Sun;  
 Crowd Counting via Weighted VLAD on Dense Attribute Feature Maps;  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); 2016;  
-
-- Guosheng Lin, Chunhua Shen, Anton van den Hengel;   
-Supervised Hashing Using Graph Cuts and Boosted Decision Trees;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2015;  
-***Code: <https://bitbucket.org/chhshen/fasthash/>***  
 
 - Fayao Liu, Guosheng Lin, Chunhua Shen;  
 CRF Learning with CNN Features for Image Segmentation;  
 Pattern Recognition (PR), 2015;  
 
-- Chunhua Shen, Guosheng Lin, Anton van den Hengel;   
-StructBoost: Boosting Methods For Predicting Structured Output Variables;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;  
-***The following code provides the implementation of cutting-plane and an example of column generation:***  
-***<https://bitbucket.org/guosheng/structhash>***  
+- Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin;   
+Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
+Image and Vision Computing, 2018;   
+
+
+
 
 
