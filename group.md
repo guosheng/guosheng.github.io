@@ -10,10 +10,8 @@
 - Jiacheng Wei (PhD student from EEE, co-supervised)
 
 ## Visiting students
-- Fengmao Lv (University of Electronic Science and Technology of China, co-supervised)
 - Haonan Luo (Nanjing University of Science and Technology)
 - Ruibo Li (Huazhong University of Science and Technology)
-
 
 ## Collaborations
 I'm also closely working with the following students:  
@@ -23,3 +21,4 @@ I'm also closely working with the following students:
 - Tong Shen (graduated PhD student, co-supervised PhD student from The University of Adelaide)
 - Feixiang He (research assistant)
 - Qizhu Li (visiting PhD student, University of Oxford)
+- Fengmao Lv (University of Electronic Science and Technology of China, co-supervised)
