@@ -135,7 +135,7 @@ International Conference on Computer Vision  (ICCV), 2013;
 ***Code: <https://bitbucket.org/guosheng/twostephashing>***
 
 - Xi Li\*, Guosheng Lin\*, Chunhua Shen, Anton van den Hengel and Anthony Dick;   
-***( * indicates equal contribution );***
+***( * indicates equal contribution );***   
 Learning Hash Functions Using Column Generation;  
 International Conference on Machine Learning (ICML), 2013; Oral Presentation;   
 ***Code: <https://bitbucket.org/guosheng/columngenerationhashing/>***
