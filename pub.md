@@ -90,7 +90,7 @@ Weakly Supervised Semantic Segmentation Based on Cosegmentation;
 The British Machine Vision Conference (BMVC) 2017;   
 
 - Tong Shen*, Guosheng Lin*, Chunhua Shen, Ian Reid;  
-***( &lowast indicates equal contribution )***  
+***( * indicates equal contribution )***  
 Learning Multilevel Region Consistency with Dense Multilabel Networks for Semantic Segmentation;   
 International Joint Conference on Artificial Intelligence (IJCAI) 2017; 
 
