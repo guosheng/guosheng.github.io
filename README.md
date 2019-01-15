@@ -1,2 +1,4 @@
 # guosheng.github.io
-Guosheng's homepage
+Guosheng's homepage.
+Please visit:
+https://guosheng.github.io/
