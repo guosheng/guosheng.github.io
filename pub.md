@@ -5,7 +5,7 @@
 
 ## Released research code:
 
-- RefineNet for semantic segmentation, CVPR 2017, TPAMI 2019     
+- RefineNet for semantic segmentation, CVPR 2017     
 Our source code and trained models are available at:   
 (MATLAB based framework for semantic segmentation and dense preidction)   
 ***Code: <https://github.com/guosheng/refinenet>***   
@@ -158,7 +158,7 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 - Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
 RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;    
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019; (to appear)    
 ***Code: <https://github.com/guosheng/refinenet>***   
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
