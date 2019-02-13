@@ -58,7 +58,8 @@ ECCV18 Workshop on Transferring Knowledge and Adapting Source Knowledge in Compu
 
 - Tong Shen, Guosheng Lin, Chunhua Shen, Ian Reid;  
 Bootstrapping the Performance of Webly Supervised Semantic Segmentation;  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018;  
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018;    
+***Code: <https://github.com/ascust/BDWSS>***
 
 - Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wangling Goh;  
 Learning Markov Clustering Networks for Scene Text Detection;  
