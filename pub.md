@@ -5,7 +5,7 @@
 
 ## Released research code:
 
-- RefineNet for semantic segmentation, CVPR 2017     
+- RefineNet for semantic segmentation, CVPR 2017, TPAMI 2019     
 Our source code and trained models are available at:   
 (MATLAB based framework for semantic segmentation and dense preidction)   
 ***Code: <https://github.com/guosheng/refinenet>***   
