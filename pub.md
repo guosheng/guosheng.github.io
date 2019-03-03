@@ -52,7 +52,7 @@ Keypoint Based Weakly Supervised Human Parsing; 2018;
 
 ## Conference publications
 
-- Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen;;  
+- Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen;      
 CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning;  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019;    
 
