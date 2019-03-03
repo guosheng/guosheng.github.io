@@ -60,6 +60,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019;
 Towards Robust Curve Text Detection with Conditional Spatial Expansion;  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019;    
 
+- Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin;    
+On Lightweight Privacy-Preserving Collaborative Learning for Internet-of-Things Objects;    
+The 4th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI) 2019;    
+
 - Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan and Lixin Duan;     
 Domain Adaptive Semantic Segmentation through Structure Enhancement.  
 ECCV18 Workshop on Transferring Knowledge and Adapting Source Knowledge in Computer Vision and VisDA Challenge 2018.
