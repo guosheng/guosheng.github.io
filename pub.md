@@ -202,6 +202,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin;   
+Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
+Image and Vision Computing, 2018;     
+
 - Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
 SemanticsAware Visual Object Tracking;  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;  
@@ -226,9 +230,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); 2016;
 CRF Learning with CNN Features for Image Segmentation;  
 Pattern Recognition (PR), 2015;  
 
-- Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin;   
-Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
-Image and Vision Computing, 2018;   
+
 
 
 
