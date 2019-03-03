@@ -52,7 +52,15 @@ Keypoint Based Weakly Supervised Human Parsing; 2018;
 
 ## Conference publications
 
-- Fengmao Lv, Qing Lian, Lixin Duan, Guowu Yang, Guosheng Lin and Sinno Jialin Pan;  
+- Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen;;  
+CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning;  
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019;    
+
+- Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh;  
+Towards Robust Curve Text Detection with Conditional Spatial Expansion;  
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019;    
+
+- Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan and Lixin Duan;     
 Domain Adaptive Semantic Segmentation through Structure Enhancement.  
 ECCV18 Workshop on Transferring Knowledge and Adapting Source Knowledge in Computer Vision and VisDA Challenge 2018.
 
