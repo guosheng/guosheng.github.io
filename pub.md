@@ -204,7 +204,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 - Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin;   
 Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
-Image and Vision Computing, 2018;     
+Image and Vision Computing, 2019;     
 
 - Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
 SemanticsAware Visual Object Tracking;  
