@@ -176,7 +176,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019; (t
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
 Exploring Context with Deep Structured models for Semantic Segmentation;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018;  
 
 - Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen;   
 Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures;  
