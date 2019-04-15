@@ -35,18 +35,14 @@ The following code provides the implementation of cutting-plane and an example o
 
 
 ## Preprints:
-- Zhonghua Wu, Guosheng Lin*, Qingyi Tao, Jianfei Cai;  
-M2E-Try On Net: Fashion from Model to Everyone; 2018
+- Zhonghua Wu, Guosheng Lin*, Qingyi Tao, Jianfei Cai;     
+M2E-Try On Net: Fashion from Model to Everyone; 2018   
 
-- Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;  
-Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation; 2018;   
+- Zhonghua Wu, Guosheng Lin*, Jianfei Cai;     
+Keypoint Based Weakly Supervised Human Parsing; 2018;   
 
 - Zichuan Liu, Guosheng Lin*, Wang Ling Goh, Fayao Liu, Chunhua Shen, Xiaokang Yang;   
 Correlation Propagation Networks for Scene Text Detection;  2018;   
-
-- Zhonghua Wu, Guosheng Lin*, Jianfei Cai;  
-Keypoint Based Weakly Supervised Human Parsing; 2018;   
-
 
 
 
@@ -171,7 +167,7 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 - Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
 RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019; (to appear)    
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;     
 ***Code: <https://github.com/guosheng/refinenet>***   
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
@@ -201,10 +197,13 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+- Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;     
+Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation;     
+IEEE Transactions on Multimedia (TMM), 2019;
 
-- Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin;   
+- Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin*;   
 Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
-Image and Vision Computing, 2019;     
+Image and Vision Computing (IVC), 2019;     
 
 - Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
 SemanticsAware Visual Object Tracking;  
