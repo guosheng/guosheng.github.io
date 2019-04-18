@@ -41,8 +41,9 @@ I occasionally have openings for interns, research assistants, PhD students and 
 ## Research grants 
 1. NTU Start-Up grant. (PI)  
 2. Singapore MOE Tier-1 grant. (PI)  
-3. Singtel-NTU research grant. (Co-PI)  
+3. Singtel-NTU Corp Lab research grant. (Co-PI)  
 4. AI.Singapore research grant. (PI)  
+5. Delta-NTU Corp Lab research grant. (PI)  
 
 ## Teaching  
 1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), 2015/2016, University of Adelaide (Guest lecturer)
