@@ -17,8 +17,9 @@ machine learning, computer vision, visual recognition, scene understanding, etc.
 
 
 ## Join our group
-I occasionally have openings for interns, research assistants, PhD students and Postdoc researchers. Please email me with your CV for enquiries.  
+I occasionally have openings for interns, research assistants, PhD students and Postdoctoral researchers. Please email me with your CV for enquiries.  
 
+Updates (May 2019): 
 **_Multiple postdoctoral positions are available. Interested candidates please email me with your CV._**
 
 
