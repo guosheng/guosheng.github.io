@@ -35,8 +35,6 @@ The following code provides the implementation of cutting-plane and an example o
 
 
 ## Preprints:
-- Zhonghua Wu, Guosheng Lin*, Qingyi Tao, Jianfei Cai;     
-M2E-Try On Net: Fashion from Model to Everyone; 2018   
 
 - Zhonghua Wu, Guosheng Lin*, Jianfei Cai;     
 Keypoint Based Weakly Supervised Human Parsing; 2018;   
@@ -47,6 +45,10 @@ Correlation Propagation Networks for Scene Text Detection;  2018;
 
 
 ## Conference publications
+
+- Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;        
+M2E-Try On Net: Fashion from Model to Everyone; 2019     
+ACM Multimedia (ACMMM) 2019;    
 
 - Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen;      
 CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning;  
