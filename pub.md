@@ -46,6 +46,14 @@ Correlation Propagation Networks for Scene Text Detection;  2018;
 
 ## Conference publications
 
+- Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao   
+Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation   
+International Conference on Computer Vision (ICCV), 2019;     
+
+- Haonan Luo, Guosheng Lin, Zichuan Liu, Fayao Liu, Zhenmin Tang, Yazhou Yao   
+SegEQA: Video Segmentation based Visual Attention for Embodied Question Answering   
+International Conference on Computer Vision (ICCV), 2019;     
+
 - Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;        
 M2E-Try On Net: Fashion from Model to Everyone; 2019     
 ACM Multimedia (ACMMM) 2019;    
