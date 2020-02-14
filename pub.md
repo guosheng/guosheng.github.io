@@ -133,6 +133,11 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+
+- Zichuan Liu, Guosheng Lin*, Wang Ling Goh;   
+Bottom-Up Scene Text Detection with Markov Clustering Networks;  
+International Journal of Computer Vision (IJCV); 2020;   
+
 - Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
 RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;     
