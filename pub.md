@@ -4,6 +4,31 @@
 
 ## Conference publications (selected)
 
+- Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi HUNG, Lihua Xie   
+Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+
+- Hanyu Shi, Guosheng Lin, Hao Wang, Tzu-Yi HUNG, Zhenhua Wang   
+SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+
+- Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen   
+DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+
+- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu   
+CRNet: Cross-Reference Networks for Few-Shot Segmentation   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+
+- Tao Liang, Xiang Chen, Guosheng Lin, Fengmao Lv   
+Cross-domain semantic segmentation via domain-invariant interactive relation transfer   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+
+- Zhonghua Wu, Qingyi Tao, Guosheng Lin, Jianfei Cai   
+Exploring Bottom-up and Top-down Cues with Attentive Learning for Webly Supervised Object Detection   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+
+
 - Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao   
 Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation   
 International Conference on Computer Vision (ICCV), 2019;     
