@@ -195,6 +195,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+-----------------------------------------------------
+
+- Video Object Segmentation and Tracking: A Survey   
+Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou   
+Transactions on Intelligent Systems and Technology, 2020;    
+
 - A Dilated Inception Network for Visual Saliency Prediction   
 Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin   
 IEEE Transactions on Multimedia (TMM), 2019;   
