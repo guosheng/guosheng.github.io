@@ -4,6 +4,26 @@
 
 ## Conference publications (selected)
 
+- Hao Wang, Guosheng Lin, Steven HOI, Chunyan Miao   
+Structure-Aware Generation Network for Recipe Generation from Images   
+European Conference on Computer Vision (ECCV) 2020;   
+
+- Tianyi Zhang, Guosheng Lin, WEIDE LIU, Jianfei Cai, Alex Kot   
+Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation   
+European Conference on Computer Vision (ECCV) 2020;   
+
+- Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu   
+TRRNet: Tree Relation Reasoning for Compositional Visual Question Answering   
+European Conference on Computer Vision (ECCV) 2020;   
+
+- Lichang Chen, Guosheng Lin, Shijie Wang, Qingyao Wu   
+Graph Edit Distance Reward: Learning to Edit Scene Graph   
+European Conference on Computer Vision (ECCV) 2020;   
+
+- Yukun Su, Guosheng Lin, Jinhui Zhu, Qingyao Wu   
+Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition   
+European Conference on Computer Vision (ECCV) 2020;   
+
 - Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi HUNG, Lihua Xie   
 Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
@@ -20,7 +40,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;
 CRNet: Cross-Reference Networks for Few-Shot Segmentation   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
-- Tao Liang, Xiang Chen, Guosheng Lin, Fengmao Lv   
+- Fengmao Lv, Tao Liang, Xiang Chen, Guosheng Lin
 Cross-domain semantic segmentation via domain-invariant interactive relation transfer   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
