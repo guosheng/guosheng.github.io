@@ -13,7 +13,7 @@ Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection L
 European Conference on Computer Vision (ECCV) 2020;   
 
 - Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu   
-TRRNet: Tree Relation Reasoning for Compositional Visual Question Answering   
+TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering   
 European Conference on Computer Vision (ECCV) 2020;   
 
 - Lichang Chen, Guosheng Lin, Shijie Wang, Qingyao Wu   
