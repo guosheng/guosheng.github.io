@@ -4,11 +4,11 @@
 
 ## Conference publications (selected)
 
-- Hao Wang, Guosheng Lin, Steven HOI, Chunyan Miao   
+- Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao   
 Structure-Aware Generation Network for Recipe Generation from Images   
 European Conference on Computer Vision (ECCV) 2020;   
 
-- Tianyi Zhang, Guosheng Lin, WEIDE LIU, Jianfei Cai, Alex Kot   
+- Tianyi Zhang, Guosheng Lin, Weide Liu, Jianfei Cai, Alex Kot   
 Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation   
 European Conference on Computer Vision (ECCV) 2020;   
 
