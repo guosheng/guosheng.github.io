@@ -4,6 +4,7 @@
 
 ## Conference publications (selected)
 
+
 - Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao   
 Structure-Aware Generation Network for Recipe Generation from Images   
 European Conference on Computer Vision (ECCV) 2020;   
@@ -23,6 +24,10 @@ European Conference on Computer Vision (ECCV) 2020;
 - Yukun Su, Guosheng Lin, Jinhui Zhu, Qingyao Wu   
 Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition   
 European Conference on Computer Vision (ECCV) 2020;   
+
+- Weide Liu, Chi Zhang, Guosheng Lin, Tzu-Yi HUNG, Chunyan Miao    
+Weakly Supervised Segmentation with Maximum Bipartite Graph Matching    
+ACM International Conference on Multimedia (ACM MM) 2020;   
 
 - Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi HUNG, Lihua Xie   
 Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds   
@@ -178,7 +183,6 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
-
 - Zichuan Liu, Guosheng Lin*, Wang Ling Goh;   
 Bottom-Up Scene Text Detection with Markov Clustering Networks;  
 International Journal of Computer Vision (IJCV); 2020;   
@@ -216,6 +220,17 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Hao Chen, Yongjian Deng, Youfu Li, Tzu-Yi Hung, Guosheng Lin    
+RGBD Salient Object Detection via Disentangled Cross-modal Fusion    
+IEEE Transactions on Image Processing (TIP), 2020;   
+
+- Hanrui Wu, Yuguang Yan, Guosheng Lin, Min Yang, Michael Kwok-Po Ng, Qingyao Wu   
+Iterative Refinement for Multi-source Visual Domain Adaptation   
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020;   
+
+- Weide Liu, Guosheng Lin, Tianyi Zhang, Zichuan Liu    
+Guided Co-Segmentation Network for Fast Video Object Segmentation    
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020;   
 
 - Video Object Segmentation and Tracking: A Survey   
 Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou   
