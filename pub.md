@@ -220,6 +220,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan     
+Weakly-supervised Cross-domain Road Scene Segmentation via Multi-level Curriculum Adaptation     
+IEEE Transactions on Circuits and Systems for Video Technology, 2020;   
+
+- Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang    
+Motion Context Network for Weakly Supervised Object Detection in Videos    
+IEEE Signal Processing Letters, 2020;   
+
 - Hao Chen, Yongjian Deng, Youfu Li, Tzu-Yi Hung, Guosheng Lin    
 RGBD Salient Object Detection via Disentangled Cross-modal Fusion    
 IEEE Transactions on Image Processing (TIP), 2020;   
