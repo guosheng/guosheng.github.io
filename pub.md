@@ -183,6 +183,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+- Hao Chen, Youfu Li, Yongjian Deng, Guosheng Lin;   
+CNN-based RGB-D Salient Object Detection: Learn, Select, and Fuse;     
+International Journal of Computer Vision (IJCV); 2021;   
+
 - Zichuan Liu, Guosheng Lin*, Wang Ling Goh;   
 Bottom-Up Scene Text Detection with Markov Clustering Networks;  
 International Journal of Computer Vision (IJCV); 2020;   
@@ -220,7 +224,15 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
-- Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan     
+- Xiaoqian Ruana, Guosheng Lin, Cheng Long, Shengli Lu;      
+Few-Shot Fine-Grained Classification with Spatial Attentive Comparison;      
+Knowledge-Based Systems, 2021;      
+
+- Pengshuai Yin, Jiayong Ye, Guoshen Lin, Qingyao Wu;      
+Graph neural network for 6D object pose estimation;      
+Knowledge-Based Systems, 2021;      
+
+- Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan      
 Weakly-supervised Cross-domain Road Scene Segmentation via Multi-level Curriculum Adaptation     
 IEEE Transactions on Circuits and Systems for Video Technology, 2020;   
 
