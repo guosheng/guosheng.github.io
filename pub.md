@@ -224,7 +224,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
-- Xiaoqian Ruana, Guosheng Lin, Cheng Long, Shengli Lu;      
+- Xiaoqian Ruan, Guosheng Lin, Cheng Long, Shengli Lu;      
 Few-Shot Fine-Grained Classification with Spatial Attentive Comparison;      
 Knowledge-Based Systems, 2021;      
 
