@@ -5,65 +5,65 @@
 ## Conference publications (selected)
 
 
-- Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao   
-Structure-Aware Generation Network for Recipe Generation from Images   
+- Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao;       
+Structure-Aware Generation Network for Recipe Generation from Images;       
 European Conference on Computer Vision (ECCV) 2020;   
 
-- Tianyi Zhang, Guosheng Lin, Weide Liu, Jianfei Cai, Alex Kot   
-Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation   
+- Tianyi Zhang, Guosheng Lin, Weide Liu, Jianfei Cai, Alex Kot;       
+Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation;       
 European Conference on Computer Vision (ECCV) 2020;   
 
-- Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu   
-TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering   
+- Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu;       
+TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering;       
 European Conference on Computer Vision (ECCV) 2020;   
 
-- Lichang Chen, Guosheng Lin, Shijie Wang, Qingyao Wu   
-Graph Edit Distance Reward: Learning to Edit Scene Graph   
+- Lichang Chen, Guosheng Lin, Shijie Wang, Qingyao Wu;       
+Graph Edit Distance Reward: Learning to Edit Scene Graph;       
 European Conference on Computer Vision (ECCV) 2020;   
 
-- Yukun Su, Guosheng Lin, Jinhui Zhu, Qingyao Wu   
-Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition   
+- Yukun Su, Guosheng Lin, Jinhui Zhu, Qingyao Wu;       
+Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition;       
 European Conference on Computer Vision (ECCV) 2020;   
 
-- Weide Liu, Chi Zhang, Guosheng Lin, Tzu-Yi HUNG, Chunyan Miao    
-Weakly Supervised Segmentation with Maximum Bipartite Graph Matching    
+- Weide Liu, Chi Zhang, Guosheng Lin, Tzu-Yi HUNG, Chunyan Miao;        
+Weakly Supervised Segmentation with Maximum Bipartite Graph Matching;        
 ACM International Conference on Multimedia (ACM MM) 2020;   
 
-- Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi HUNG, Lihua Xie   
-Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds   
+- Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi HUNG, Lihua Xie;       
+Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
-- Hanyu Shi, Guosheng Lin, Hao Wang, Tzu-Yi HUNG, Zhenhua Wang   
-SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds   
+- Hanyu Shi, Guosheng Lin, Hao Wang, Tzu-Yi HUNG, Zhenhua Wang;       
+SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
-- Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen   
-DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers   
+- Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen;       
+DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
-- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu   
-CRNet: Cross-Reference Networks for Few-Shot Segmentation   
+- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;       
+CRNet: Cross-Reference Networks for Few-Shot Segmentation;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
-- Fengmao Lv, Tao Liang, Xiang Chen, Guosheng Lin
-Cross-domain semantic segmentation via domain-invariant interactive relation transfer   
+- Fengmao Lv, Tao Liang, Xiang Chen, Guosheng Lin;    
+Cross-domain semantic segmentation via domain-invariant interactive relation transfer;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
-- Zhonghua Wu, Qingyi Tao, Guosheng Lin, Jianfei Cai   
-Exploring Bottom-up and Top-down Cues with Attentive Learning for Webly Supervised Object Detection   
+- Zhonghua Wu, Qingyi Tao, Guosheng Lin, Jianfei Cai;       
+Exploring Bottom-up and Top-down Cues with Attentive Learning for Webly Supervised Object Detection;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
 
-- Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao   
-Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation   
+- Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao;       
+Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation;       
 International Conference on Computer Vision (ICCV), 2019;     
 
-- Haonan Luo, Guosheng Lin, Zichuan Liu, Fayao Liu, Zhenmin Tang, Yazhou Yao   
-SegEQA: Video Segmentation based Visual Attention for Embodied Question Answering   
+- Haonan Luo, Guosheng Lin, Zichuan Liu, Fayao Liu, Zhenmin Tang, Yazhou Yao;       
+SegEQA: Video Segmentation based Visual Attention for Embodied Question Answering;       
 International Conference on Computer Vision (ICCV), 2019;     
 
 - Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai;        
-M2E-Try On Net: Fashion from Model to Everyone; 2019     
+M2E-Try On Net: Fashion from Model to Everyone;          
 ACM Multimedia (ACMMM) 2019;    
 
 - Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen;      
@@ -97,10 +97,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018;
 
 - Anton Milan, et al;  
 Semantic segmentation from limited training data;  
-IEEE International Conference on Robotics and Automation (ICRA), 2018; ;   
+IEEE International Conference on Robotics and Automation (ICRA), 2018;        
 ***Winning solution based on our RefineNet for Amazon Robotics Challenge (ARC) 2017***   
 
-- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;  
+- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;      
 RefineNet: MultiPath Refinement Networks for HighResolution Semantic Segmentation;  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017;    
 Top performance on PASCAL VOC 2012 dataset.  
@@ -232,32 +232,36 @@ Knowledge-Based Systems, 2021;
 Graph neural network for 6D object pose estimation;      
 Knowledge-Based Systems, 2021;      
 
-- Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan      
+- Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan;          
 Weakly-supervised Cross-domain Road Scene Segmentation via Multi-level Curriculum Adaptation     
 IEEE Transactions on Circuits and Systems for Video Technology, 2020;   
 
-- Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang    
-Motion Context Network for Weakly Supervised Object Detection in Videos    
+- Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin;        
+On Lightweight Privacy-Preserving Collaborative Learning for Internet of Things by Independent Random Projections;      
+ACM Transactions on Internet of Things, 2020;   
+
+- Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang;        
+Motion Context Network for Weakly Supervised Object Detection in Videos;        
 IEEE Signal Processing Letters, 2020;   
 
-- Hao Chen, Yongjian Deng, Youfu Li, Tzu-Yi Hung, Guosheng Lin    
-RGBD Salient Object Detection via Disentangled Cross-modal Fusion    
+- Hao Chen, Yongjian Deng, Youfu Li, Tzu-Yi Hung, Guosheng Lin;        
+RGBD Salient Object Detection via Disentangled Cross-modal Fusion;        
 IEEE Transactions on Image Processing (TIP), 2020;   
 
-- Hanrui Wu, Yuguang Yan, Guosheng Lin, Min Yang, Michael Kwok-Po Ng, Qingyao Wu   
-Iterative Refinement for Multi-source Visual Domain Adaptation   
+- Hanrui Wu, Yuguang Yan, Guosheng Lin, Min Yang, Michael Kwok-Po Ng, Qingyao Wu;       
+Iterative Refinement for Multi-source Visual Domain Adaptation;       
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020;   
 
-- Weide Liu, Guosheng Lin, Tianyi Zhang, Zichuan Liu    
-Guided Co-Segmentation Network for Fast Video Object Segmentation    
+- Weide Liu, Guosheng Lin, Tianyi Zhang, Zichuan Liu;        
+Guided Co-Segmentation Network for Fast Video Object Segmentation;        
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020;   
 
-- Video Object Segmentation and Tracking: A Survey   
-Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou   
+- Video Object Segmentation and Tracking: A Survey;       
+Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou;       
 Transactions on Intelligent Systems and Technology, 2020;    
 
-- A Dilated Inception Network for Visual Saliency Prediction   
-Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin   
+- A Dilated Inception Network for Visual Saliency Prediction;       
+Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin;       
 IEEE Transactions on Multimedia (TMM), 2019;   
 
 - Tianyi Zhang, Guosheng Lin*, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C Kot;     
