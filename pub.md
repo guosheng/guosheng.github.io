@@ -17,7 +17,7 @@ Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Op
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
 (Oral presentation)      
 
-- Fengmao Lv, Xiang Chen, Yanyong Huang, ixin Duan, Guosheng Lin;       
+- Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin;       
 Progressive Modality Reinforcement for Human Multimodal Emotion Recognition from Unaligned Multimodal Sequences;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
 
