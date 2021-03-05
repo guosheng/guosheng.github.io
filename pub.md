@@ -21,10 +21,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;
 Progressive Modality Reinforcement for Human Multimodal Emotion Recognition from Unaligned Multimodal Sequences;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
 
-- Chi Zhang*, Nan Song*, Guosheng Lin, Yun Zheng, Pan Pan, Yinghui Xu;       
+- Chi Zhang\*, Nan Song\*, Guosheng Lin, Yun Zheng, Pan Pan, Yinghui Xu;       
 Few-Shot Incremental Learning with Continually Evolved Classifiers;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
-(* indicates equal contribution)
+(\* indicates equal contribution)
 
 - Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao;       
 Structure-Aware Generation Network for Recipe Generation from Images;       
