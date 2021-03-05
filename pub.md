@@ -4,6 +4,27 @@
 
 ## Conference publications (selected)
 
+- Fan Yang, Guosheng Lin;       
+CT-Net: Complementary Transfering Network for Garment Transfer with Arbitrary Geometric Changes;       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
+
+- Ruibo Li, Guosheng Lin, Tong He, Fayao Liu, Chunhua Shen;       
+HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding;       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
+
+- Ruibo Li, Guosheng Lin, Lihua Xie;       
+Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk;       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
+(Oral presentation)      
+
+- Fengmao Lv, Xiang Chen, Yanyong Huang, ixin Duan, Guosheng Lin;       
+Progressive Modality Reinforcement for Human Multimodal Emotion Recognition from Unaligned Multimodal Sequences;       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
+
+- Chi Zhang*, Nan Song*, Guosheng Lin, Yun Zheng, Pan Pan, Yinghui Xu;       
+Few-Shot Incremental Learning with Continually Evolved Classifiers;       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
+(* indicates equal contribution)
 
 - Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao;       
 Structure-Aware Generation Network for Recipe Generation from Images;       
@@ -40,6 +61,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;
 - Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen;       
 DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
+(Oral presentation)     
 
 - Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;       
 CRNet: Cross-Reference Networks for Few-Shot Segmentation;       
