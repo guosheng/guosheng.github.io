@@ -258,9 +258,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
-- Chi Zhang, Guankai Li, Guosheng Lin, Qingyao Wu, Rui Yao;        
+- Chi Zhang*, Guankai Li*, Guosheng Lin, Qingyao Wu, Rui Yao;        
 CycleSegNet: Object Co-Segmentation with Cycle Refinement and Region Correspondence;        
 IEEE Transactions on Image Processing (TIP), 2021;   
+(* indicates equal contribution)
 
 - Haonan Luo, Guosheng Lin, Yazhou Yao, Zhenmin Tang, Qingyao Wu, Xiansheng Hua;          
 Dense Semantics-Assisted Networks For Video Action Recognition     
