@@ -4,6 +4,18 @@
 
 ## Conference publications (selected)
 
+- Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao;        
+Cycle-Consistent Inverse GAN for Text-to-Image Synthesis;        
+ACM International Conference on Multimedia (ACM MM) 2021;   
+
+- Yukun Su, Guosheng Lin, RuiZhou Sun, Yun Hao, Qingyao Wu;        
+Modeling the Uncertainty for Self-supervised 3D Skeleton Action Representation Learning;        
+ACM International Conference on Multimedia (ACM MM) 2021;  
+
+- Xiaojing Zhong, Zhonghua Wu, Taizhe Tan, Guosheng Lin, Qingyao Wu;        
+MV-TON: Memory-based Video Virtual Try-on network;        
+ACM International Conference on Multimedia (ACM MM) 2021;  
+
 - Fan Yang, Guosheng Lin;       
 CT-Net: Complementary Transfering Network for Garment Transfer with Arbitrary Geometric Changes;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
@@ -245,6 +257,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+
+- Haonan Luo, Guosheng Lin, Yazhou Yao, Zhenmin Tang, Qingyao Wu, Xiansheng Hua;          
+Dense Semantics-Assisted Networks For Video Action Recognition     
+IEEE Transactions on Circuits and Systems for Video Technology, 2021;   
 
 - Xiaoqian Ruan, Guosheng Lin, Cheng Long, Shengli Lu;      
 Few-Shot Fine-Grained Classification with Spatial Attentive Comparison;      
