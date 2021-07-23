@@ -4,6 +4,26 @@
 
 ## Conference publications (selected)
 
+- Yukun Su, Guosheng Lin, RuiZhou Sun, Qingyao Wu;              
+Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation;       
+International Conference on Computer Vision (ICCV), 2021;    
+
+- Yukun Su, Guosheng Lin, Qingyao Wu;              
+Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity;       
+International Conference on Computer Vision (ICCV), 2021;    
+
+- Chi Zhang, Henghui Ding, Guosheng Lin, Ruibo Li, Changhu Wang, Chunhua Shen;       
+Meta Navigator: Search for a Good Adaptation Policy for Few-shot Learning;       
+International Conference on Computer Vision (ICCV), 2021;    
+
+- Tao Liang, Guosheng Lin, Lei Feng, Yan Zhang, Fengmao Lv;       
+Attention is not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion;       
+International Conference on Computer Vision (ICCV), 2021;    
+
+- Zhonghua Wu, Xiangxi Shi, Guosheng Lin, Jianfei Cai;       
+Learning Meta-class Memory for Few-Shot Semantic Segmentation;       
+International Conference on Computer Vision (ICCV), 2021;     
+
 - Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao;        
 Cycle-Consistent Inverse GAN for Text-to-Image Synthesis;        
 ACM International Conference on Multimedia (ACM MM) 2021;   
