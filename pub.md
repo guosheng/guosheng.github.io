@@ -278,6 +278,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu;        
+Progressive Self-Guided Loss for Salient Object Detection;        
+IEEE Transactions on Image Processing (TIP), 2021;   
+
 - Chi Zhang*, Guankai Li*, Guosheng Lin, Qingyao Wu, Rui Yao;        
 CycleSegNet: Object Co-Segmentation with Cycle Refinement and Region Correspondence;        
 IEEE Transactions on Image Processing (TIP), 2021;   
