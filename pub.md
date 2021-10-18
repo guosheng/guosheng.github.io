@@ -4,6 +4,10 @@
 
 ## Conference publications (selected)
 
+- Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;     
+3D Pose Transfer with Correspondence Learning and Mesh Refinement;    
+Neural Information Processing Systems (NeurIPS), 2021;     
+
 - Yukun Su, Guosheng Lin, RuiZhou Sun, Qingyao Wu;              
 Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation;       
 International Conference on Computer Vision (ICCV), 2021;    
