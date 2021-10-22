@@ -282,6 +282,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Feature flow: In-network feature flow estimation for video object detection;     
+Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu;    
+Pattern Recognition (PR), 2021;    
+
 - Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu;        
 Progressive Self-Guided Loss for Salient Object Detection;        
 IEEE Transactions on Image Processing (TIP), 2021;   
@@ -352,24 +356,24 @@ SemanticsAware Visual Object Tracking;
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;  
 
 - Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
-Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;  
-Pattern Recognition (PR), 2018; ; 
+Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;      
+Pattern Recognition (PR), 2018;      
 
 - Fayao Liu, Guosheng Lin*, Chunhua Shen;   
 Discriminative Training of Deep Fullyconnected Continuous CRF with Taskspecific Loss;  
-IEEE Transactions on Image Processing (TIP), 2017; 
+IEEE Transactions on Image Processing (TIP), 2017;     
 
 - Fayao Liu, Guosheng Lin*, Ruizhi Qiao, Chunhua Shen;  
 Structured Learning of Tree Potentials in CRF for Image Segmentation;  
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2017; 
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2017;     
 
 - Biyun Sheng, Chunhua Shen, Guosheng Lin, Jun Li, Wankou Yang, Changyin Sun;  
 Crowd Counting via Weighted VLAD on Dense Attribute Feature Maps;  
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); 2016;  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); 2016;      
 
 - Fayao Liu, Guosheng Lin, Chunhua Shen;  
-CRF Learning with CNN Features for Image Segmentation;  
-Pattern Recognition (PR), 2015;  
+CRF Learning with CNN Features for Image Segmentation;    
+Pattern Recognition (PR), 2015;    
 
 
 
