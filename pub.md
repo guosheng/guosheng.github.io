@@ -4,6 +4,10 @@
 
 ## Conference publications (selected)
 
+- Yukun Su, Guosheng Lin, Yun Hao, Yiwen Cao, Wenjun Wang, Qingyao Wu;     
+Self-Supervised Object Localization with Joint Graph Partition;     
+AAAI Conference on Artificial Intelligence (AAAI), 2022;     
+
 - Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;     
 3D Pose Transfer with Correspondence Learning and Mesh Refinement;    
 Neural Information Processing Systems (NeurIPS), 2021;     
