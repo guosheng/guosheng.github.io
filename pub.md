@@ -286,6 +286,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Ruibing Jin, GuoshengLin, Changyun Wen;      
+Online Active Proposal Set Generation for weakly supervised object detection;     
+Knowledge-Based Systems, 2021;      
+
 - Feature flow: In-network feature flow estimation for video object detection;     
 Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu;    
 Pattern Recognition (PR), 2021;    
