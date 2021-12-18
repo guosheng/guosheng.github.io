@@ -4,7 +4,7 @@
 
 ## Conference publications (selected)
 
-- Yukun Su, Guosheng Lin, Yun Hao, Yiwen Cao, Wenjun Wang, Qingyao Wu;     
+- Yukun Su, Guosheng Lin, Yiwen Cao, Qingyao Wu;     
 Self-Supervised Object Localization with Joint Graph Partition;     
 AAAI Conference on Artificial Intelligence (AAAI), 2022;     
 
