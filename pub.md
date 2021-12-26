@@ -245,6 +245,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+- Haonan Luo, Guosheng Lin, Yazhou Yao, Fayao Liu, Zichuan Liu, and Zhenmin Tang;      
+Depth and Video Segmentation Based Visual Attention for Embodied Question Answering;     
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021;       
+
 - Hao Chen, Youfu Li, Yongjian Deng, Guosheng Lin;   
 CNN-based RGB-D Salient Object Detection: Learn, Select, and Fuse;     
 International Journal of Computer Vision (IJCV); 2021;   
@@ -285,6 +289,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+
+- Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin;       
+Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation;     
+IEEE Transactions on Multimedia (TMM), 2021;        
 
 - Ruibing Jin, GuoshengLin, Changyun Wen;      
 Online Active Proposal Set Generation for weakly supervised object detection;     
