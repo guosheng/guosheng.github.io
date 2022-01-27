@@ -36,19 +36,23 @@ I occasionally have openings for interns, research assistants, PhD students and 
 [Link](https://guosheng.github.io/pub)
 
 ## Services  
-1. ACCV 2018 Local Arrangement Chair, [Link](http://accv2018.net/people/)
+1. ACCV 2018 Local Arrangement Chair
 2. Reviewers for CVPR, TPAMI, IJCV, TIP, TMM, etc.  
 
-## Research grants 
-1. NTU Start-Up grant. (PI)  
-2. Singapore MOE Tier-1 grant. (PI)  
-3. Singtel-NTU Corp Lab research grant. (Co-PI)  
-4. AI.Singapore research grant. (PI)  
-5. Delta-NTU Corp Lab research grant. (PI)  
+## Research grants (selected)
+1. Singapore MOE Tier-2 research grant. (PI)  
+2. AI.Singapore research grant. (PI)  
+3. Delta-NTU Corp Lab research grant. (PI)  
+4. S-lab Research Grant. (PI)  
+5. Alibaba-NTU research grant (PI)
+6. Webank-NTU research grant (PI)
+7. Hyundai research grant (PI)
 
 ## Teaching  
 1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), 2015/2016, University of Adelaide (Guest lecturer)
-2. Digital Media Technology - Special Topic, Course code: DM6190, 2017/2018, Nanyang Technological University
+2. Special Topic - image segmentation, Course code: DM6190, 2017-present, Nanyang Technological University
+3. Data Structures,  Course code: CE/CZ 1007, 2019, Nanyang Technological University
+4. Data Analytics and Mining, Course code: CZ/CE 4032, 2021-present, Nanyang Technological University
 
 
 
