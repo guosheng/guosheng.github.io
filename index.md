@@ -9,10 +9,8 @@ School of Computer Science and Engineering,
 Nanyang Technological University, Singapore.   
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com  
 
-#### Google citations: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)    
 #### Research interests:  
-machine learning, computer vision, visual recognition, scene understanding, etc.   
-
+machine learning, computer vision, visual recognition, scene understanding, 3D deep learning, etc.   
 
 
 
@@ -34,6 +32,7 @@ I occasionally have openings for interns, research assistants, PhD students and 
 [Link](https://guosheng.github.io/group)
 
 ## Publications
+#### Google citations: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)    
 [Link](https://guosheng.github.io/pub)
 
 ## Services  
