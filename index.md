@@ -20,10 +20,11 @@ machine learning, computer vision, visual recognition, scene understanding, etc.
 I occasionally have openings for interns, research assistants, PhD students and postdoctoral researchers. Please email me with your CV for enquiries.  
 
 
-## Experience
+## Research Experience & Education
 1. 2017 - present: Assistant Professor, Nanyang Technological University, Singapore.  
 2. 2014 - 2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide. Closely working with Prof. Chunhua Shen, Prof. Ian Reid, and Prof. Anton v.d. Hengel  
-3. 2010 - 2014: PhD student, The University of Adelaide. Supervisors: Prof. Chunhua Shen (principal), Prof. David Suter and Assoc Prof. Tat-Jun Chin.  
+3. 2010 - 2014: PhD, The University of Adelaide. Supervisors: Prof. Chunhua Shen (principal), Prof. David Suter and Assoc Prof. Tat-Jun Chin.  
+4. 2003 - 2007; 2007 - 2010: B.Eng and M.Eng, respectively, from South China University of Technology
 
 ## Awards  
 1. Google PhD fellowship, Australia, 2014, [Link](http://google-au.blogspot.com.au/2014/06/two-australians-selected-for-google-phd.html) or [Link](http://googleresearch.blogspot.com.au/2014/06/2014-google-phd-fellowships-supporting.html).  
