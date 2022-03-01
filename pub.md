@@ -292,6 +292,9 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+- Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao;     
+Decomposing Generation Networks with Structure Prediction for Recipe Generation;    
+Pattern Recognition (PR), 2022;    
 
 - Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin;       
 Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation;     
