@@ -7,6 +7,18 @@
 
 ## Conference publications (selected)
 
+- Ruibo Li; Chi Zhang; Guosheng Lin; Zhe Wang; Chunhua Shen;      
+RigidFlow: Self-Supervised Scene Flow Learning on Point Clouds by Local Rigidity Prior;      
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022;    
+
+- Hanyu Shi, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;      
+Weakly Supervised Segmentation on Outdoor 4D point clouds with Temporal Matching and Spatial Graph Propagation;      
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022;    
+
+- Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv;       
+Expanding Large Pre-trained Unimodal Models with Multimodal Information Injection for Image-Text Multimodal Classification;      
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022;    
+
 - Yukun Su, Guosheng Lin, Yiwen Cao, Qingyao Wu;     
 Self-Supervised Object Localization with Joint Graph Partition;     
 AAAI Conference on Artificial Intelligence (AAAI), 2022;     
