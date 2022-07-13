@@ -36,8 +36,9 @@ I occasionally have openings for interns, research assistants, PhD students and 
 publication list: [Link](https://guosheng.github.io/pub)
 
 ## Services  
-1. ACCV 2018 Local Arrangement Chair
-2. Reviewers for CVPR, TPAMI, IJCV, TIP, TMM, etc.  
+1. ACCV 2018 Local Arrangement Chair, ACCV 2022 Area Chair
+2. AAAI 2023 Senior Program Committee Membeber
+3. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
 
 ## Research grants (selected)
 1. Singapore MOE Tier-2 research grant. (PI)  
