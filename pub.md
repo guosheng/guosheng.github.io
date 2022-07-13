@@ -288,7 +288,7 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
-- Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao; 
+- Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao;       
 Learning Structural Representations for Recipe Generation and Food Retrieval;      
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
 
