@@ -7,7 +7,35 @@
 
 ## Conference publications (selected)
 
-- Ruibo Li; Chi Zhang; Guosheng Lin; Zhe Wang; Chunhua Shen;      
+- Shichao Dong; Guosheng Lin; Tzu-Yi HUNG;      
+Learning Regional Purity for Instance Segmentation on 3D Point Clouds;     
+European Conference on Computer Vision (ECCV) 2022;    
+
+- Kennard Chan Yanting; Guosheng Lin; Haiyu Zhao; Weisi Lin;      
+IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction;       
+European Conference on Computer Vision (ECCV) 2022;    
+
+- Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai, Chen Qian;     
+Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation;     
+European Conference on Computer Vision (ECCV) 2022;    
+
+- Yukun Su; Guosheng Lin; RuiZhou Sun; Qingyao Wu;    
+General Object Pose Transformation Network from Unpaired Data;      
+European Conference on Computer Vision (ECCV) 2022;    
+
+- BingLiang Jiao, Lingqiao Liu, Liying Gao, Guosheng Lin, Lu Yang, Shizhou Zhang, Peng Wang, Yanning Zhang;    
+Dynamically Transformed Instance Normalization Network for Generalizable Person Re-Identification;    
+European Conference on Computer Vision (ECCV) 2022;    
+
+- Nan Song, Chi Zhang, Guosheng Lin;      
+Few-shot Open-set Recognition Using Background as Unknowns;     
+ACM International Conference on Multimedia (ACM MM) 2022;          
+
+- Hao Wang, Guosheng Lin, Steven HOI, Chunyan Miao;     
+Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval;      
+ACM International Conference on Multimedia (ACM MM) 2022;     
+
+- Ruibo Li, Chi Zhang, Guosheng Lin, Zhe Wang, Chunhua Shen;      
 RigidFlow: Self-Supervised Scene Flow Learning on Point Clouds by Local Rigidity Prior;      
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022;    
 
@@ -260,6 +288,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+- Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao; 
+Learning Structural Representations for Recipe Generation and Food Retrieval;      
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
+
 - Haonan Luo, Guosheng Lin, Yazhou Yao, Fayao Liu, Zichuan Liu, and Zhenmin Tang;      
 Depth and Video Segmentation Based Visual Attention for Embodied Question Answering;     
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021;       
@@ -304,6 +336,19 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+
+- Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao;     
+Cross-Modal Graph with Meta Concepts for Video Captioning;      
+IEEE Transactions on Image Processing (TIP), 2022;   
+
+- Weide Liu, Chi Zhang, Henghui Ding, Tzu-Yi Hung, Guosheng Lin;     
+Few-shot Segmentation with Optimal Transport Matching and Message Flow;    
+IEEE Transactions on Multimedia (TMM), 2022;        
+
+- Chuanyi Zhang, Guosheng Lin, Qiong Wang, Fumin Shen, Yazhou Yao, and Zhenmin Tang;     
+Guided by Meta-set: A Data-driven Method for Fine-Grained Visual Recognition;      
+IEEE Transactions on Multimedia (TMM), 2022;        
+
 - Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao;     
 Decomposing Generation Networks with Structure Prediction for Recipe Generation;    
 Pattern Recognition (PR), 2022;    
