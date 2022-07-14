@@ -353,6 +353,10 @@ IEEE Transactions on Multimedia (TMM), 2022;
 Decomposing Generation Networks with Structure Prediction for Recipe Generation;    
 Pattern Recognition (PR), 2022;    
 
+- Su He, Xiaofeng Yang, GuoshengLin;    
+Learning language to symbol and language to vision mapping for visual grounding;    
+Image and Vision Computing, 2022;      
+
 - Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin;       
 Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation;     
 IEEE Transactions on Multimedia (TMM), 2021;        
