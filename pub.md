@@ -337,6 +337,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Lvlong Lai, Jian Chen, Chi Zhang, Zehong Zhang, Guosheng Lin, Qingyao Wu;    
+Tackling Background Ambiguities in Multi-Class Few-Shot Point Cloud Semantic Segmentation;     
+Knowledge-Based Systems, 2022;      
+
 - Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao;     
 Cross-Modal Graph with Meta Concepts for Video Captioning;      
 IEEE Transactions on Image Processing (TIP), 2022;   
