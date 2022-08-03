@@ -465,45 +465,6 @@ Pattern Recognition (PR), 2015;
 
 
 
-## Released research code:
-
-- RefineNet for semantic segmentation, CVPR 2017, TPAMI 2019     
-Our source code and trained models are available at:   
-(MATLAB based framework for semantic segmentation and dense preidction)   
-***Code: <https://github.com/guosheng/refinenet>***   
-
-- FastHash for supervised hashing (binary code/representation learning), CVPR 2014, TPAMI 2015  
-***Code: <https://bitbucket.org/chhshen/fasthash/>***
-
-- Deep Convolutional Neural Fields (DCNF) for Depth Estimation from a Single Image; CVPR 2015, TPAMI 2016  
-***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
-
-- Structured hashing (StructHash) for supervised hashing (binary code/representation learning), ECCV 2014, IJCV 2017  
-***Code: <https://bitbucket.org/guosheng/structhash>***  
-
-- Two-step hashing (TSH) for supervised hashing (binary code/representation learning), ICCV 2013     
-***Code: <https://bitbucket.org/guosheng/twostephashing>***
-
-- Column generation hashing (CGH) for supervised hashing (binary code/representation learning), ICML 2014  
-***Code: <https://bitbucket.org/guosheng/columngenerationhashing/>***
-
-- StructBoost for boosting based structured learning, TPAMI 2014,  
-The following code provides the implementation of cutting-plane and an example of column generation:  
-***Code: <https://bitbucket.org/guosheng/structhash>***
-
-- Effective multiclass boosting for multiclass classification, ACCV 2012,  
-***Code: <https://bitbucket.org/guosheng/fastmultiboostcw>***
-
-
-
-## Preprints:
-
-- Zichuan Liu, Guosheng Lin*, Wang Ling Goh, Fayao Liu, Chunhua Shen, Xiaokang Yang;   
-Correlation Propagation Networks for Scene Text Detection;  2018;   
-
-
-
-
 
 
 
