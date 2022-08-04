@@ -7,6 +7,10 @@
 
 ## Conference publications (selected)
 
+- Fayao Liu, Guosheng Lin, Chuan Sheng Foo, Chaitanya Joshi, Jie Lin;       
+Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis;    
+International Conference on 3D Vision (3DV) 2022;          
+
 - Shichao Dong; Guosheng Lin; Tzu-Yi HUNG;      
 Learning Regional Purity for Instance Segmentation on 3D Point Clouds;     
 European Conference on Computer Vision (ECCV) 2022;    
