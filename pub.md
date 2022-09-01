@@ -292,6 +292,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;      
+CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks;      
+International Journal of Computer Vision (IJCV); 2022;         
+
 - Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao;       
 Learning Structural Representations for Recipe Generation and Food Retrieval;      
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
