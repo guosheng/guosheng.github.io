@@ -7,6 +7,14 @@
 
 ## Conference publications (selected)
 
+- Kennard Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin;       
+S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction;        
+Neural Information Processing Systems (NeurIPS), 2022;     
+
+- Xingyi Li, Chaoyi Hong, Yiran Wang, Zhiguo Cao, Ke Xian, Guosheng Lin;      
+SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis;     
+Asian Conference on Computer Vision (ACCV), 2022;      
+
 - Fayao Liu, Guosheng Lin, Chuan Sheng Foo, Chaitanya Joshi, Jie Lin;       
 Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis;    
 International Conference on 3D Vision (3DV) 2022;          
@@ -242,7 +250,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016;
 
 - Guosheng Lin,  Chunhua Shen, Ian Reid, Anton van den Hengel;   
 Deeply Learning the Messages in Message Passing Inference;  
-Advances in Neural Information Processing Systems (NIPS), 2015, 
+Neural Information Processing Systems (NeurIPS), 2015.
 
 - Fayao Liu, Chunhua Shen, Guosheng Lin;  
 Deep Convolutional Neural Fields for Depth Estimation from a Single Image;  
