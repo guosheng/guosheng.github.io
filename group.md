@@ -4,13 +4,10 @@
 
 ## Research staff
 - Xian Ke (Postdoctoral research fellow)
-- Song Chaoyue (Reseach Assistant)
 
 ## PhD students
 - Xiaofeng Yang (PhD student)
-- Weide Liu (PhD student)
 - Jiacheng Wei (PhD student from EEE, co-supervised)
-- Zhonghua Wu (PhD student)
 - Ruibo Li (PhD student)
 - Shi Hanyu (PhD student)
 - Yang Ze (PhD student)
@@ -19,26 +16,33 @@
 - Song Nan (PhD student)
 - Yang Fan (PhD student)
 - He Xiaosheng (PhD student)
+- Fu Zhoujie (PhD student)
+- Yin Youtan (PhD student)
+- Chen Yiwen (PhD student)
+- Feng Chengzheng (PhD student)
+- Song Chaoyue (PhD student)
+- Chen Cheng (PhD student)
 
 
 ## Visiting students
 - Su Yukun (visiting PhD student, South China University of Technology)
 - Zhang Chuanyi (visiting PhD student, Nanjing University of Science and Technology)
 - Jiao Bingliang (visiting PhD student, Northwestern Polytechnical University, China)
+- Chen Tianyi (visiting PhD student, South China University of Technology)
 
 
 ## Collaborations
 I'm also closely working with the following students:  
-- Sheng Yang (PhD student, graduated)
 - Yunfan Zhang (PhD student)
 
-## Former group members (not a full list)
+## Former members (not a full list)
 - Tong Shen (co-supervised PhD student from The University of Adelaide)
 - Feixiang He (research assistant)
 - Qizhu Li (visiting PhD student, University of Oxford)
 - Fengmao Lv (visiting student, University of Electronic Science and Technology of China, co-supervised)
 - Zichuan Liu (PhD student from EEE, co-supervised)
 - Ruibing Jin (PhD student from EEE, co-supervised)
+- Sheng Yang (collaborator)
 - Haonan Luo (visiting PhD student, Nanjing University of Science and Technology)
 - Tianyi Zhang (PhD student)
 - Chen Hao (Postdotoral research fellow)
@@ -49,4 +53,8 @@ I'm also closely working with the following students:
 - Guankai Li (Master student)
 - Yiming Wang (Master student) 
 - Chi Zhang (PhD student)
+- Weide Liu (PhD student)
+- Zhonghua Wu (PhD student)
+
+
 
