@@ -4,6 +4,7 @@
 
 ## Research staff
 - Xian Ke (Postdoctoral research fellow)
+- Song Chaoyue (Research Assistant)
 
 ## PhD students
 - Xiaofeng Yang (PhD student)
@@ -16,12 +17,7 @@
 - Song Nan (PhD student)
 - Yang Fan (PhD student)
 - He Xiaosheng (PhD student)
-- Fu Zhoujie (PhD student)
-- Yin Youtan (PhD student)
-- Chen Yiwen (PhD student)
-- Feng Chengzheng (PhD student)
-- Song Chaoyue (PhD student)
-- Chen Cheng (PhD student)
+
 
 
 ## Visiting students
