@@ -19,6 +19,10 @@ Asian Conference on Computer Vision (ACCV), 2022;
 Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis;    
 International Conference on 3D Vision (3DV) 2022;          
 
+- Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin;        
+Indoor Smartphone SLAM with Learned Echoic Location Features;                
+ACM Conference on Embedded Networked Sensor Systems (SenSys), 2022;            
+
 - Shichao Dong; Guosheng Lin; Tzu-Yi HUNG;      
 Learning Regional Purity for Instance Segmentation on 3D Point Clouds;     
 European Conference on Computer Vision (ECCV) 2022;    
@@ -299,6 +303,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 
 ## Journal publications
+
+- Chi Zhang; Yujun Cai; Guosheng Lin; Chunhua Shen;     
+DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning;       
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
 
 - Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;      
 CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks;      
