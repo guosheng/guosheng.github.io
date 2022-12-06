@@ -36,9 +36,11 @@ I occasionally have openings for interns, research assistants, PhD students and 
 publication list: [Link](https://guosheng.github.io/pub)
 
 ## Services  
-1. ACCV 2018 Local Arrangement Chair; ACCV 2022 Area Chair
+1. Standard Editor for Artificial Intelligence Journal (AIJ, IF:14.05, CCF A)
 2. AAAI 2023 Senior Program Committee Member
-3. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
+3. ACCV 2022 Area Chair
+4. ACCV 2018 Local Arrangement Chair
+5. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
 
 ## Research grants (selected)
 1. Singapore MOE Tier-2 research grant. (PI)  
