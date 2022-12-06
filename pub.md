@@ -361,6 +361,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 
+- Ze Yang, Chi Zhang, Ruibo Li, Yi Xu, and Guosheng Lin;        
+Efficient Few-Shot Object Detection via Knowledge Inheritance;          
+IEEE Transactions on Image Processing (TIP), 2022;   
+
 - Lvlong Lai, Jian Chen, Chi Zhang, Zehong Zhang, Guosheng Lin, Qingyao Wu;    
 Tackling Background Ambiguities in Multi-Class Few-Shot Point Cloud Semantic Segmentation;     
 Knowledge-Based Systems, 2022;      
