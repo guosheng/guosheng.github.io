@@ -360,6 +360,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 
 -----------------------------------------------------
+-----------------------------------------------------
+
+- Xiaofeng Yang, Fengmao Lv, Fayao Liu, Guosheng Lin;    
+Self-Training Vision Language BERTs with a Unified Conditional Model;      
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022;       
+
 
 - Ze Yang, Chi Zhang, Ruibo Li, Yi Xu, and Guosheng Lin;        
 Efficient Few-Shot Object Detection via Knowledge Inheritance;          
@@ -424,7 +430,7 @@ Knowledge-Based Systems, 2021;
 
 - Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan;          
 Weakly-supervised Cross-domain Road Scene Segmentation via Multi-level Curriculum Adaptation     
-IEEE Transactions on Circuits and Systems for Video Technology, 2020;   
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020;   
 
 - Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin;        
 On Lightweight Privacy-Preserving Collaborative Learning for Internet of Things by Independent Random Projections;      
