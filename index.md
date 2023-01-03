@@ -38,10 +38,11 @@ publication list: [Link](https://guosheng.github.io/pub)
 ## Services  
 1. Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 
 2. Standard Editor for Artificial Intelligence Journal (AIJ, IF:14.05, CCF A)
-3. AAAI 2023 Senior Program Committee Member
-4. ACCV 2022 Area Chair
-5. ACCV 2018 Local Arrangement Chair
-6. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
+3. IJCAI 2023 Senior Program Committee (SPC) Member
+4. AAAI 2023 Senior Program Committee (SPC) Member
+5. ACCV 2022 Area Chair
+6. ACCV 2018 Local Arrangement Chair
+7. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
 
 ## Research grants (selected)
 1. Singapore MOE Tier-2 research grant. (PI)  
