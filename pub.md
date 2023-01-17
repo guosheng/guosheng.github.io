@@ -362,6 +362,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Xiaofeng Yang, Fayao Liu, Guosheng Lin;       
+Effective End-to-End Vision Language Pretraining with Semantic Visual Loss;      
+IEEE Transactions on Multimedia (TMM), 2022;    
+
 - Xiaofeng Yang, Fengmao Lv, Fayao Liu, Guosheng Lin;    
 Self-Training Vision Language BERTs with a Unified Conditional Model;      
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022;       
