@@ -3,9 +3,24 @@
 
 ### Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
 
-
-
 ## Conference publications (selected)
+
+
+- Xingyi Li, Zhiguo Cao, Huiqiang Sun, Jianming Zhang, Ke Xian, Guosheng Lin;     
+3D Cinemagraphy from a Single Image;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;    
+
+- Ruibo Li, Hanyu Shi, Ziang Fu, Zhe Wang, Guosheng Lin;     
+Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving;       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;    
+
+- Jiacheng Wei, Hao Wang, Jiashi Feng, Guosheng Lin, Kim-Hui Yap, Andreas Geiger;     
+TAPS3D: Text-Guided 3D Textured Shape Generation from Pseudo Supervision;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;    
+
+- Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;     
+Neural Vector Fields: Implicit Representation by Explicit Learning;      
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;    
 
 - Kennard Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin;       
 S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction;        
