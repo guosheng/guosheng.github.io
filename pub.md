@@ -319,6 +319,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+- Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
+Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023;       
+
 - Chi Zhang; Yujun Cai; Guosheng Lin; Chunhua Shen;     
 DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning;       
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
@@ -376,6 +380,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 -----------------------------------------------------
 -----------------------------------------------------
+
+- Haonan Luo; Guosheng Lin; Fumin Shen; Xingguo Huang; Yazhou Yao; Hengtao Shen;        
+Robust-EQA: Robust Learning for Embodied Question Answering With Noisy Labels;      
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023;           
 
 - Xiaofeng Yang, Fayao Liu, Guosheng Lin;       
 Effective End-to-End Vision Language Pretraining with Semantic Visual Loss;      
