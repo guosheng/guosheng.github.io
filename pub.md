@@ -383,7 +383,11 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 
 - Haonan Luo; Guosheng Lin; Fumin Shen; Xingguo Huang; Yazhou Yao; Hengtao Shen;        
 Robust-EQA: Robust Learning for Embodied Question Answering With Noisy Labels;      
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023;           
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023;      
+
+- Anthony Meng Huat Tiong, Junnan Li, Guosheng Lin, Boyang Li, Caiming Xiong, Steven C.H. Hoi;        
+Improving Tail-Class Representation with Centroid Contrastive Learning;              
+Pattern Recognition Letters; 2023;      
 
 - Xiaofeng Yang, Fayao Liu, Guosheng Lin;       
 Effective End-to-End Vision Language Pretraining with Semantic Visual Loss;      
