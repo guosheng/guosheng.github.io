@@ -381,6 +381,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Hanjing Su and Qingyao Wu;             
+A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection;        
+IEEE Transactions on Multimedia (TMM), 2023;    
+
 - Haonan Luo; Guosheng Lin; Fumin Shen; Xingguo Huang; Yazhou Yao; Hengtao Shen;        
 Robust-EQA: Robust Learning for Embodied Question Answering With Noisy Labels;      
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023;      
