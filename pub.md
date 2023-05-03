@@ -381,6 +381,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Hanyu Shi, Ruibo Li, Fayao Liu, and Guosheng Lin;          
+Temporal Feature Matching and Propagation for Semantic Segmentation on 3D Point Cloud Sequences;       
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023;       
+
 - Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Hanjing Su and Qingyao Wu;             
 A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection;        
 IEEE Transactions on Multimedia (TMM), 2023;    
