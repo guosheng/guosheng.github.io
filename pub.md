@@ -381,9 +381,17 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Jianyang Zhang; Guowu Yang; Ping Hu; Guosheng Lin; Fengmao Lv;       
+Semantic Consistent Embedding for Domain Adaptive Zero-Shot Learning;          
+IEEE Transactions on Image Processing (TIP), 2023;
+
 - Xianghui Yang, Guosheng Lin, Luping Zhou;          
 Single-view 3D Mesh Reconstruction for Seen and Unseen Categories;     
-IEEE Transactions on Image Processing (TIP), 2023;       
+IEEE Transactions on Image Processing (TIP), 2023;
+
+- Hao Yun, Yukun Su, Guosheng Lin, Hanjing Su, Qingyao Wu;         
+Contrastive Generative Network with Recursive-Loop for 3D Point Cloud Generalized Zero-Shot Classiffcation;          
+Pattern Recognition, 2023;         
 
 - Hanyu Shi, Ruibo Li, Fayao Liu, and Guosheng Lin;          
 Temporal Feature Matching and Propagation for Semantic Segmentation on 3D Point Cloud Sequences;       
