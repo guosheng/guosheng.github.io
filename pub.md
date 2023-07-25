@@ -5,6 +5,21 @@
 
 ## Conference publications (selected)
 
+- Shichao Dong, Ruibo Li, Jiacheng Wei, Fayao Liu, Guosheng Lin;     
+Collaborative Propagation on Multiple Instance Graphs for 3D Instance Segmentation with Single-point Supervision;     
+International Conference on Computer Vision (ICCV), 2023;    
+
+- Qianxiong Xu, Wenting Zhao, Guosheng Lin, Cheng Long;       
+Self-Calibrated Cross Attention Network for Few-Shot Segmentation;      
+International Conference on Computer Vision (ICCV), 2023;    
+
+- Ze Yang, Ruibo Li, Evan Ling, Chi Zhang, Yiming Wang, Dezhao HUANG, Keng Teck Ma, Minhoe Hur, Guosheng Lin;      
+Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds;       
+International Conference on Computer Vision (ICCV), 2023;    
+
+- Yiran Wang, Min Shi, jiaqi li, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin;
+Neural Video Depth Stabilizer;     
+International Conference on Computer Vision (ICCV), 2023;
 
 - Xingyi Li, Zhiguo Cao, Huiqiang Sun, Jianming Zhang, Ke Xian, Guosheng Lin;     
 3D Cinemagraphy from a Single Image;     
