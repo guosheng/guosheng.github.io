@@ -17,7 +17,7 @@ International Conference on Computer Vision (ICCV), 2023;
 Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds;       
 International Conference on Computer Vision (ICCV), 2023;    
 
-- Yiran Wang, Min Shi, jiaqi li, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin;
+- Yiran Wang, Min Shi, jiaqi li, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin;         
 Neural Video Depth Stabilizer;     
 International Conference on Computer Vision (ICCV), 2023;
 
