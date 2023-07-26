@@ -21,6 +21,10 @@ International Conference on Computer Vision (ICCV), 2023;
 Neural Video Depth Stabilizer;     
 International Conference on Computer Vision (ICCV), 2023;
 
+- Liao Shen, Xingyi Li, Huiqiang Sun, Juewen Peng, Ke Xian, Zhiguo Cao, Guosheng Lin;      
+Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image;
+ACM International Conference on Multimedia (ACM MM) 2023;      
+
 - Xingyi Li, Zhiguo Cao, Huiqiang Sun, Jianming Zhang, Ke Xian, Guosheng Lin;     
 3D Cinemagraphy from a Single Image;     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;    
