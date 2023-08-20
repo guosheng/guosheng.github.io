@@ -400,6 +400,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Xiaofeng Yang, Fayao Liu, Guosheng Lin;        
+Neural Logic Vision Language Explainer;         
+IEEE Transactions on Multimedia (TMM), 2023;   
+
 - Jianyang Zhang; Guowu Yang; Ping Hu; Guosheng Lin; Fengmao Lv;       
 Semantic Consistent Embedding for Domain Adaptive Zero-Shot Learning;          
 IEEE Transactions on Image Processing (TIP), 2023;
