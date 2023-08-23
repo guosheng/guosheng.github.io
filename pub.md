@@ -400,6 +400,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Ke Xian, Juewen Peng, Zhiguo Cao, Jianming Zhang, Guosheng Lin;        
+ViTA: Video Transformer Adaptor for Robust Video Depth Estimation;        
+IEEE Transactions on Multimedia (TMM), 2023;   
+
 - Xiaofeng Yang, Fayao Liu, Guosheng Lin;        
 Neural Logic Vision Language Explainer;         
 IEEE Transactions on Multimedia (TMM), 2023;   
