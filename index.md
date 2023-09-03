@@ -2,7 +2,7 @@
 [<img src="https://guosheng.github.io/my_pic.jpg" height="200" style="float: right;">](https://guosheng.github.io/my_pic.jpg)
 
 Guosheng Lin  
-Assistant Professor  
+Associate Professor  
 
 Block N4, 02c-93,  
 School of Computer Science and Engineering,  
@@ -19,10 +19,11 @@ I occasionally have openings for interns, research assistants, PhD students and 
 
 
 ## Experience & Education
-1. 2017 - present: Assistant Professor, Nanyang Technological University, Singapore.  
-2. 2014 - 2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide. Closely working with Prof. Chunhua Shen, Prof. Ian Reid, and Prof. Anton v.d. Hengel  
-3. 2010 - 2014: PhD, The University of Adelaide, Australia; Supervisors: Prof. Chunhua Shen (principal), Prof. David Suter and Assoc Prof. Tat-Jun Chin.  
-4. 2003 - 2007; 2007 - 2010: B.Eng and M.Eng, respectively, from South China University of Technology, Guangzhou, China.
+1. 2023 - present: Associate Professor with Tenure, Nanyang Technological University, Singapore.  
+2. 2017 - 2023: Assistant Professor, Nanyang Technological University, Singapore.  
+3. 2014 - 2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide. Closely working with Prof. Chunhua Shen, Prof. Ian Reid, and Prof. Anton v.d. Hengel  
+4. 2010 - 2014: PhD, The University of Adelaide, Australia; Supervisors: Prof. Chunhua Shen (principal), Prof. David Suter and Assoc Prof. Tat-Jun Chin.  
+5. 2003 - 2007; 2007 - 2010: B.Eng and M.Eng, respectively, from South China University of Technology, Guangzhou, China.
 
 ## Awards  
 1. Google PhD fellowship, Australia, 2014, [Link](http://google-au.blogspot.com.au/2014/06/two-australians-selected-for-google-phd.html) or [Link](http://googleresearch.blogspot.com.au/2014/06/2014-google-phd-fellowships-supporting.html).  
