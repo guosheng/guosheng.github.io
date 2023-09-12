@@ -400,6 +400,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin; 
+LCReg: Long-Tailed Image Classification with Latent Categories based Recognition;        
+Pattern Recognition, 2023;
+
 - Ke Xian, Juewen Peng, Zhiguo Cao, Jianming Zhang, Guosheng Lin;        
 ViTA: Video Transformer Adaptor for Robust Video Depth Estimation;        
 IEEE Transactions on Multimedia (TMM), 2023;   
@@ -417,7 +421,7 @@ Single-view 3D Mesh Reconstruction for Seen and Unseen Categories;
 IEEE Transactions on Image Processing (TIP), 2023;
 
 - Hao Yun, Yukun Su, Guosheng Lin, Hanjing Su, Qingyao Wu;         
-Contrastive Generative Network with Recursive-Loop for 3D Point Cloud Generalized Zero-Shot Classiffcation;          
+Contrastive Generative Network with Recursive-Loop for 3D Point Cloud Generalized Zero-Shot Classification;          
 Pattern Recognition, 2023;         
 
 - Hanyu Shi, Ruibo Li, Fayao Liu, and Guosheng Lin;          
