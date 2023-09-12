@@ -400,9 +400,9 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
-Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin; 
+- Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin;              
 LCReg: Long-Tailed Image Classification with Latent Categories based Recognition;        
-Pattern Recognition, 2023;
+Pattern Recognition, 2023;              
 
 - Ke Xian, Juewen Peng, Zhiguo Cao, Jianming Zhang, Guosheng Lin;        
 ViTA: Video Transformer Adaptor for Robust Video Depth Estimation;        
