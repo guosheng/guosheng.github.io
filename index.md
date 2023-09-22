@@ -10,7 +10,7 @@ Nanyang Technological University, Singapore.
 E-mail:   gslin{At}ntu.edu.sg   or   guosheng.lin{At}gmail.com  
 
 #### Research interests:
-machine learning, computer vision, visual recognition, scene understanding, 3D deep learning, etc.   
+computer vision, scene understanding, 3D deep learning, Generative AI, etc.   
 
 
 
