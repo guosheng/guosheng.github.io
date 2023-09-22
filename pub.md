@@ -5,6 +5,10 @@
 
 ## Conference publications (selected)
 
+- Bingliang Jiao, Lingqiao Liu, Liying Gao, Ruiqi Wu, Guosheng Lin, PENG WANG, Yanning Zhang;             
+Toward Re-Identifying Any Animal;              
+Neural Information Processing Systems (NeurIPS), 2023;     
+
 - Shichao Dong, Ruibo Li, Jiacheng Wei, Fayao Liu, Guosheng Lin;     
 Collaborative Propagation on Multiple Instance Graphs for 3D Instance Segmentation with Single-point Supervision;     
 International Conference on Computer Vision (ICCV), 2023;    
