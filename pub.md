@@ -404,6 +404,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin;                  
+Indoor Smartphone SLAM with Acoustic Echoes;                
+Transactions on Mobile Computing, 2023.        
+
 - Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin;              
 LCReg: Long-Tailed Image Classification with Latent Categories based Recognition;        
 Pattern Recognition, 2023;              
