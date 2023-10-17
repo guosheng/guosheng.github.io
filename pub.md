@@ -342,6 +342,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+- Weide Liu, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng, Guosheng Lin;         
+Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation;         
+International Journal of Computer Vision (IJCV); 2023;         
+
 - Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
 Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023;       
