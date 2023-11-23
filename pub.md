@@ -410,14 +410,13 @@ Pattern Recognition Letters; 2023;
 DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning;       
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
 
-- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;      
-CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks;      
-International Journal of Computer Vision (IJCV); 2022;         
-
 - Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao;       
 Learning Structural Representations for Recipe Generation and Food Retrieval;      
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;
 
+- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;      
+CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks;      
+International Journal of Computer Vision (IJCV); 2022;         
 
 - Xiaofeng Yang, Fayao Liu, Guosheng Lin;       
 Effective End-to-End Vision Language Pretraining with Semantic Visual Loss;      
@@ -565,13 +564,13 @@ Image and Vision Computing (IVC), 2019;
 -----------------------------------------------------
 -----------------------------------------------------
 
+- Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
+Exploring Context with Deep Structured models for Semantic Segmentation;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018;
+
 - Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
 SemanticsAware Visual Object Tracking;  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;
-
-- Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
-Exploring Context with Deep Structured models for Semantic Segmentation;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018;  
 
 - Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
 Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;      
