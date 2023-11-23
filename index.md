@@ -37,13 +37,14 @@ I occasionally have openings for interns, research assistants, PhD students and 
 publication list: [Link](https://guosheng.github.io/pub)
 
 ## Services  
-1. Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 
-2. Standard Editor for Artificial Intelligence Journal (AIJ, IF:14.05, CCF A)
-3. CVPR 2024 Area Chair
-4. IJCAI 2023 Senior Program Committee (SPC) Member
-5. AAAI 2023/2024 Senior Program Committee (SPC) Member
-6. ACCV 2022 Area Chair, ACCV 2018 Local Arrangement Chair
-7. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
+1. Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT);
+2. Standard Editor for Artificial Intelligence Journal (AIJ, IF:14.05, CCF A);
+3. CVPR 2024 Area Chair;
+4. AAAI 2023/2024 Senior Program Committee (SPC) Member;
+5. IJCAI 2023 Senior Program Committee (SPC) Member;
+6. ACM Multimedia 2024 Area Chair, Open Source Software Chair;
+7. ACCV 2022 Area Chair, ACCV 2018 Local Arrangement Chair;
+8. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
 
 ## Research grants (selected)
 1. Singapore MOE Tier-2 research grant (PI)  
