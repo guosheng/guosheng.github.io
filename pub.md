@@ -346,6 +346,7 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 -----------------------------------------------------
 -----------------------------------------------------
+### 2023
 
 - Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
 Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
@@ -405,6 +406,7 @@ Pattern Recognition Letters; 2023;
 
 -----------------------------------------------------
 -----------------------------------------------------
+### 2022
 
 - Chi Zhang; Yujun Cai; Guosheng Lin; Chunhua Shen;     
 DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning;       
@@ -457,6 +459,7 @@ Image and Vision Computing, 2022;
 
 -----------------------------------------------------
 -----------------------------------------------------
+### 2021
 
 - Haonan Luo, Guosheng Lin, Yazhou Yao, Fayao Liu, Zichuan Liu, and Zhenmin Tang;      
 Depth and Video Segmentation Based Visual Attention for Embodied Question Answering;     
@@ -502,6 +505,7 @@ Knowledge-Based Systems, 2021;
 
 -----------------------------------------------------
 -----------------------------------------------------
+### 2020
 
 - Zichuan Liu, Guosheng Lin*, Wang Ling Goh;   
 Bottom-Up Scene Text Detection with Markov Clustering Networks;  
@@ -536,8 +540,9 @@ Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou;
 Transactions on Intelligent Systems and Technology, 2020;
 
 
-2018 -----------------------------------------------------
 -----------------------------------------------------
+-----------------------------------------------------
+### 2019
 
 - Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
 RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
@@ -561,23 +566,14 @@ Image and Vision Computing (IVC), 2019;
 Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
 Image and Vision Computing (IVC), 2019;     
 
-2017 and before -----------------------------------------------------
+
 -----------------------------------------------------
+-----------------------------------------------------
+### 2018 and before
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
 Exploring Context with Deep Structured models for Semantic Segmentation;  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018;
-
-- Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
-SemanticsAware Visual Object Tracking;  
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;
-
-- Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
-Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;      
-Pattern Recognition (PR), 2018;
-
------------------------------------------------------
------------------------------------------------------
 
 - Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen;   
 Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures;  
@@ -600,6 +596,13 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;
 ***The following code provides the implementation of cutting-plane and an example of column generation:***  
 ***<https://bitbucket.org/guosheng/structhash>***  
 
+- Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
+SemanticsAware Visual Object Tracking;  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;
+
+- Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
+Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;      
+Pattern Recognition (PR), 2018;
 
 - Fayao Liu, Guosheng Lin*, Chunhua Shen;   
 Discriminative Training of Deep Fullyconnected Continuous CRF with Taskspecific Loss;  
