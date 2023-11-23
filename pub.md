@@ -536,7 +536,7 @@ Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou;
 Transactions on Intelligent Systems and Technology, 2020;
 
 
------------------------------------------------------
+2018 -----------------------------------------------------
 -----------------------------------------------------
 
 - Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
@@ -561,7 +561,7 @@ Image and Vision Computing (IVC), 2019;
 Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
 Image and Vision Computing (IVC), 2019;     
 
------------------------------------------------------
+2017 and before -----------------------------------------------------
 -----------------------------------------------------
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
