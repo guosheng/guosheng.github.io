@@ -5,6 +5,10 @@
 
 ## Conference publications (selected)
 
+-----------------------------------------------------
+-----------------------------------------------------
+### 2023
+
 - Bingliang Jiao, Lingqiao Liu, Liying Gao, Ruiqi Wu, Guosheng Lin, PENG WANG, Yanning Zhang;             
 Toward Re-Identifying Any Animal;              
 Neural Information Processing Systems (NeurIPS), 2023;     
@@ -44,6 +48,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;
 - Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;     
 Neural Vector Fields: Implicit Representation by Explicit Learning;      
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023;    
+
+-----------------------------------------------------
+-----------------------------------------------------
+### 2022
 
 - Kennard Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin;       
 S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction;        
@@ -103,7 +111,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022;
 
 - Yukun Su, Guosheng Lin, Yiwen Cao, Qingyao Wu;     
 Self-Supervised Object Localization with Joint Graph Partition;     
-AAAI Conference on Artificial Intelligence (AAAI), 2022;     
+AAAI Conference on Artificial Intelligence (AAAI), 2022;
+
+-----------------------------------------------------
+-----------------------------------------------------
+### 2021
 
 - Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;     
 3D Pose Transfer with Correspondence Learning and Mesh Refinement;    
@@ -163,6 +175,10 @@ Few-Shot Incremental Learning with Continually Evolved Classifiers;
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021;    
 (\* indicates equal contribution)
 
+-----------------------------------------------------
+-----------------------------------------------------
+### 2020
+
 - Hao Wang, Guosheng Lin, Steven Hoi, Chunyan Miao;       
 Structure-Aware Generation Network for Recipe Generation from Images;       
 European Conference on Computer Vision (ECCV) 2020;   
@@ -212,6 +228,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;
 Exploring Bottom-up and Top-down Cues with Attentive Learning for Webly Supervised Object Detection;       
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020;    
 
+-----------------------------------------------------
+-----------------------------------------------------
+### 2019
 
 - Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao;       
 Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation;       
@@ -237,6 +256,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019;
 On Lightweight Privacy-Preserving Collaborative Learning for Internet-of-Things Objects;    
 The 4th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI) 2019;    
 
+-----------------------------------------------------
+-----------------------------------------------------
+### 2018
+
 - Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan and Lixin Duan;     
 Domain Adaptive Semantic Segmentation through Structure Enhancement.  
 ECCV18 Workshop on Transferring Knowledge and Adapting Source Knowledge in Computer Vision and VisDA Challenge 2018.
@@ -259,6 +282,10 @@ Semantic segmentation from limited training data;
 IEEE International Conference on Robotics and Automation (ICRA), 2018;        
 ***Winning solution based on our RefineNet for Amazon Robotics Challenge (ARC) 2017***   
 
+-----------------------------------------------------
+-----------------------------------------------------
+### 2017
+
 - Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid;      
 RefineNet: MultiPath Refinement Networks for HighResolution Semantic Segmentation;  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017;    
@@ -280,6 +307,9 @@ The British Machine Vision Conference (BMVC) 2017;
 Learning Multilevel Region Consistency with Dense Multilabel Networks for Semantic Segmentation;   
 International Joint Conference on Artificial Intelligence (IJCAI) 2017; 
 
+-----------------------------------------------------
+-----------------------------------------------------
+### 2016 and earlier
 
 - Guosheng Lin,  Chunhua Shen, Anton van den Hengel, Ian Reid;
 Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation;  
@@ -569,7 +599,7 @@ Image and Vision Computing (IVC), 2019;
 
 -----------------------------------------------------
 -----------------------------------------------------
-### 2018 and before
+### 2018 and earlier
 
 - Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
 Exploring Context with Deep Structured models for Semantic Segmentation;  
