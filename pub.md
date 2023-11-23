@@ -342,71 +342,22 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 ## Journal publications
 
+   
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+- Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
+Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023;
+
 - Weide Liu, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng, Guosheng Lin;         
 Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation;         
 International Journal of Computer Vision (IJCV); 2023;         
 
-- Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
-Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023;       
-
-- Chi Zhang; Yujun Cai; Guosheng Lin; Chunhua Shen;     
-DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning;       
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
-
-- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;      
-CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks;      
-International Journal of Computer Vision (IJCV); 2022;         
-
-- Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao;       
-Learning Structural Representations for Recipe Generation and Food Retrieval;      
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
-
-- Haonan Luo, Guosheng Lin, Yazhou Yao, Fayao Liu, Zichuan Liu, and Zhenmin Tang;      
-Depth and Video Segmentation Based Visual Attention for Embodied Question Answering;     
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021;       
-
-- Hao Chen, Youfu Li, Yongjian Deng, Guosheng Lin;   
-CNN-based RGB-D Salient Object Detection: Learn, Select, and Fuse;     
-International Journal of Computer Vision (IJCV); 2021;   
-
-- Zichuan Liu, Guosheng Lin*, Wang Ling Goh;   
-Bottom-Up Scene Text Detection with Markov Clustering Networks;  
-International Journal of Computer Vision (IJCV); 2020;   
-
-- Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
-RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;     
-***Code: <https://github.com/guosheng/refinenet>***   
-
-- Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
-Exploring Context with Deep Structured models for Semantic Segmentation;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018;  
-
-- Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen;   
-Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures;  
-International Journal of Computer Vision (IJCV); 2017;   
-***Code: <https://bitbucket.org/guosheng/structhash>***
-
-- Fayao Liu, Chunhua Shen, Guosheng Lin, Ian Reid;  
-Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI); 2016;  
-***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
-
-- Guosheng Lin, Chunhua Shen, Anton van den Hengel;   
-Supervised Hashing Using Graph Cuts and Boosted Decision Trees;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2015;  
-***Code: <https://bitbucket.org/chhshen/fasthash/>*** 
-
-- Chunhua Shen, Guosheng Lin, Anton van den Hengel;   
-StructBoost: Boosting Methods For Predicting Structured Output Variables;  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;  
-***The following code provides the implementation of cutting-plane and an example of column generation:***  
-***<https://bitbucket.org/guosheng/structhash>***  
-
-
------------------------------------------------------
------------------------------------------------------
+- Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Fayao Liu, and Tzu-Yi Hung;             
+Dense Supervision Propagation for Weakly Supervised Semantic Segmentation on 3D Point Clouds;      
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023;       
 
 - Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin;                  
 Indoor Smartphone SLAM with Acoustic Echoes;                
@@ -450,7 +401,23 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023;
 
 - Anthony Meng Huat Tiong, Junnan Li, Guosheng Lin, Boyang Li, Caiming Xiong, Steven C.H. Hoi;        
 Improving Tail-Class Representation with Centroid Contrastive Learning;              
-Pattern Recognition Letters; 2023;      
+Pattern Recognition Letters; 2023;
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+- Chi Zhang; Yujun Cai; Guosheng Lin; Chunhua Shen;     
+DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning;       
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;       
+
+- Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu;      
+CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks;      
+International Journal of Computer Vision (IJCV); 2022;         
+
+- Hao Wang, Guosheng Lin, Steven Hoi and Chunyan Miao;       
+Learning Structural Representations for Recipe Generation and Food Retrieval;      
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022;
+
 
 - Xiaofeng Yang, Fayao Liu, Guosheng Lin;       
 Effective End-to-End Vision Language Pretraining with Semantic Visual Loss;      
@@ -487,7 +454,19 @@ Pattern Recognition (PR), 2022;
 
 - Su He, Xiaofeng Yang, GuoshengLin;    
 Learning language to symbol and language to vision mapping for visual grounding;    
-Image and Vision Computing, 2022;      
+Image and Vision Computing, 2022;
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+- Haonan Luo, Guosheng Lin, Yazhou Yao, Fayao Liu, Zichuan Liu, and Zhenmin Tang;      
+Depth and Video Segmentation Based Visual Attention for Embodied Question Answering;     
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021;       
+
+- Hao Chen, Youfu Li, Yongjian Deng, Guosheng Lin;   
+CNN-based RGB-D Salient Object Detection: Learn, Select, and Fuse;     
+International Journal of Computer Vision (IJCV); 2021;
+
 
 - Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin;       
 Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation;     
@@ -520,7 +499,14 @@ Knowledge-Based Systems, 2021;
 
 - Pengshuai Yin, Jiayong Ye, Guoshen Lin, Qingyao Wu;      
 Graph neural network for 6D object pose estimation;      
-Knowledge-Based Systems, 2021;      
+Knowledge-Based Systems, 2021;
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+- Zichuan Liu, Guosheng Lin*, Wang Ling Goh;   
+Bottom-Up Scene Text Detection with Markov Clustering Networks;  
+International Journal of Computer Vision (IJCV); 2020;
 
 - Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan;          
 Weakly-supervised Cross-domain Road Scene Segmentation via Multi-level Curriculum Adaptation     
@@ -548,7 +534,17 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020;
 
 - Video Object Segmentation and Tracking: A Survey;       
 Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou;       
-Transactions on Intelligent Systems and Technology, 2020;    
+Transactions on Intelligent Systems and Technology, 2020;
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+- Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian Reid;   
+RefineNet: Multi-Path Refinement Networks for Dense Prediction;   
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019;     
+***Code: <https://github.com/guosheng/refinenet>***   
+
 
 - A Dilated Inception Network for Visual Saliency Prediction;       
 Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin;       
@@ -566,13 +562,45 @@ Image and Vision Computing (IVC), 2019;
 Local Fusion Networks with Chained Residual Pooling for Video Action Recognition;   
 Image and Vision Computing (IVC), 2019;     
 
+-----------------------------------------------------
+-----------------------------------------------------
+
 - Rui Yao, Guosheng Lin*, Chunhua Shen, Yanning Zhang, Qinfeng Shi;  
 SemanticsAware Visual Object Tracking;  
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018;
+
+- Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid;  
+Exploring Context with Deep Structured models for Semantic Segmentation;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018;  
 
 - Rui Yao, Guosheng Lin, Qinfeng Shi, DC Ranasinghe;  
 Efficient Dense Labelling of Human Activity Sequences from Wearables using Fully Convolutional Networks;      
-Pattern Recognition (PR), 2018;      
+Pattern Recognition (PR), 2018;
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+- Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen;   
+Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures;  
+International Journal of Computer Vision (IJCV); 2017;   
+***Code: <https://bitbucket.org/guosheng/structhash>***
+
+- Fayao Liu, Chunhua Shen, Guosheng Lin, Ian Reid;  
+Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI); 2016;  
+***Code: <https://bitbucket.org/fayao/dcnffcsp/>***
+
+- Guosheng Lin, Chunhua Shen, Anton van den Hengel;   
+Supervised Hashing Using Graph Cuts and Boosted Decision Trees;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2015;  
+***Code: <https://bitbucket.org/chhshen/fasthash/>*** 
+
+- Chunhua Shen, Guosheng Lin, Anton van den Hengel;   
+StructBoost: Boosting Methods For Predicting Structured Output Variables;  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2014;  
+***The following code provides the implementation of cutting-plane and an example of column generation:***  
+***<https://bitbucket.org/guosheng/structhash>***  
+
 
 - Fayao Liu, Guosheng Lin*, Chunhua Shen;   
 Discriminative Training of Deep Fullyconnected Continuous CRF with Taskspecific Loss;  
