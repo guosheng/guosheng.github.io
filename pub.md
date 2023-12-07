@@ -378,6 +378,10 @@ Asian Conference on Computer Vision (ACCV), 2012;
 -----------------------------------------------------
 ### 2023
 
+- Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai;       
+Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
+International Journal of Computer Vision (IJCV); 2023;         
+
 - Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
 Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023;
