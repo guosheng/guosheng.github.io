@@ -4,6 +4,25 @@
 ### Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
 
 ## Conference publications (selected)
+-----------------------------------------------------
+-----------------------------------------------------
+### 2024
+
+- Kennard Yanting Chan, Fayao Liu, Guosheng Lin, Chuan Sheng Foo, Weisi Lin;                  
+Fine Structure-Aware Sampling: A New Sampling Training Scheme for Pixel-Aligned Implicit Models in Single-View Human Reconstruction;                         
+AAAI Conference on Artificial Intelligence (AAAI 2024);            
+
+- Kewei Wang, Yizheng Wu, Zhiyu Pan, Xingyi Li, Ke Xian, Zhe Wang, Zhiguo Cao, Guosheng Lin;           
+Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix;          
+AAAI Conference on Artificial Intelligence (AAAI 2024);            
+
+- Yiwen Chen, Chi Zhang, Xiaofeng Yang, Zhongang Cai, Gang Yu, Lei Yang, Guosheng Lin;           
+IT3D: Improved Text-to-3D Generation with Explicit View Synthesis;                         
+AAAI Conference on Artificial Intelligence (AAAI 2024);            
+
+- Xiaofeng Yang, Fayao Liu, Yi Xu, Hanjing Su, Qingyao Wu, Guosheng Lin;           
+Diverse and Stable 2D Diffusion Guided Text to 3D Generation with Noise Recalibration;          
+AAAI Conference on Artificial Intelligence (AAAI 2024);            
 
 -----------------------------------------------------
 -----------------------------------------------------
