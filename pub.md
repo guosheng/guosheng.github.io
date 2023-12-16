@@ -6,8 +6,7 @@
 
 -----------------------------------------------------
 -----------------------------------------------------
-:::::::::::::: {.columns}
-::: {.column width="40%"}
+
 
 # Conference publications (selected)
 
@@ -396,8 +395,7 @@ Asian Conference on Computer Vision (ACCV), 2012;
 -----------------------------------------------------
 
 
-:::
-::: {.column width="60%"}
+
 # Journal publications
 
    
@@ -690,9 +688,6 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); 2016;
 CRF Learning with CNN Features for Image Segmentation;    
 Pattern Recognition (PR), 2015;    
 
-
-:::
-::::::::::::::
 
 
 
