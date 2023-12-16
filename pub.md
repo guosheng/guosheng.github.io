@@ -392,14 +392,21 @@ Asian Conference on Computer Vision (ACCV), 2012;
 ## Journal publications
 
    
+-----------------------------------------------------
+-----------------------------------------------------
+### 2024
+
+- Ke Xian, Zhiguo Cao, Chunhua Shen, Guosheng Lin;          
+Towards Robust Monocular Depth Estimation: A New Baseline and Benchmark;       
+International Journal of Computer Vision (IJCV); 2024;    
+
+- Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai;       
+Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
+International Journal of Computer Vision (IJCV); 2024;              
 
 -----------------------------------------------------
 -----------------------------------------------------
 ### 2023
-
-- Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai;       
-Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
-International Journal of Computer Vision (IJCV); 2023;         
 
 - Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin;       
 Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction;       
