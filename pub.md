@@ -1,7 +1,7 @@
 
 # Research  
 
-### Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
+## Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
 
 
 -----------------------------------------------------
@@ -393,12 +393,12 @@ Asian Conference on Computer Vision (ACCV), 2012;
 -----------------------------------------------------
 -----------------------------------------------------
 
-
 # Journal publications
 
    
 -----------------------------------------------------
 -----------------------------------------------------
+
 ### 2024
 
 - Ke Xian, Zhiguo Cao, Chunhua Shen, Guosheng Lin;          
