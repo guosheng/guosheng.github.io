@@ -6,6 +6,9 @@
 
 -----------------------------------------------------
 -----------------------------------------------------
+:::::::::::::: {.columns}
+::: {.column width="40%"}
+
 # Conference publications (selected)
 
 
@@ -392,6 +395,9 @@ Asian Conference on Computer Vision (ACCV), 2012;
 -----------------------------------------------------
 -----------------------------------------------------
 
+
+:::
+::: {.column width="60%"}
 # Journal publications
 
    
@@ -685,7 +691,8 @@ CRF Learning with CNN Features for Image Segmentation;
 Pattern Recognition (PR), 2015;    
 
 
-
+:::
+::::::::::::::
 
 
 
