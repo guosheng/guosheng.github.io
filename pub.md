@@ -3,7 +3,11 @@
 
 ### Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
 
-## Conference publications (selected)
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+# Conference publications (selected)
 -----------------------------------------------------
 -----------------------------------------------------
 ### 2024
@@ -386,10 +390,11 @@ Asian Conference on Computer Vision (ACCV), 2012;
 
 
 
+-----------------------------------------------------
+-----------------------------------------------------
 
 
-
-## Journal publications
+# Journal publications
 
    
 -----------------------------------------------------
