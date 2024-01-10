@@ -13,7 +13,13 @@ International Journal of Computer Vision (IJCV); 2024;
 
 - Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai;       
 Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
-International Journal of Computer Vision (IJCV); 2024;              
+International Journal of Computer Vision (IJCV); 2024;
+
+
+- Hanqing Yang; Sijia Cai; Bing Deng; Jieping Ye; Guosheng Lin; Yu Zhang;                 
+Context-aware and Semantic-consistent Spatial Interactions for One-shot Object Detection without Fine-tuning;           
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024;
+
 
 -----------------------------------------------------
 -----------------------------------------------------
