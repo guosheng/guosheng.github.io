@@ -5,6 +5,35 @@
 
 ### 2024
 
+
+- Kewei Wang, Yizheng Wu, Jun CEN, Zhiyu Pan, Xingyi Li, Zhe Wang, Zhiguo Cao, Guosheng Lin;          
+Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations;                
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
+- Xingyi Li, Zhiguo Cao, Yizheng Wu, Kewei Wang, Ke Xian, Zhe Wang, Guosheng Lin;          
+S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes;          
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
+- Chen Cheng, Xiaofeng Yang, Fan Yang, Chengzeng Feng, ZHOUJIE FU, Chuan-Sheng Foo, Guosheng Lin, Fayao Liu;          
+Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior;          
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
+- Kennard Chan, Fayao Liu, Guosheng Lin, Chuan-Sheng Foo, Weisi Lin;          
+R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization;          
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
+- Yiwen Chen, Zilong Chen, Chi Zhang, Feng Wang, Xiaofeng Yang, Yikai Wang, Zhongang Cai, Lei Yang, Huaping Liu, Guosheng Lin;          
+GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting;          
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
+- Fan Yang, Tianyi Chen, XIAOSHENG HE, Zhongang Cai, Lei Yang, Si Wu, Guosheng Lin;          
+AttriHuman-3D: Editable 3D Human Avatar Generation with Attribute Decomposition and Indexing;          
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
+- Chaoyue Song, Jiacheng Wei, Chuan-Sheng Foo, Guosheng Lin, Fayao Liu;          
+REACTO: Reconstructing Articulated Objects from a Single Video;          
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024;      
+
 - Kennard Yanting Chan, Fayao Liu, Guosheng Lin, Chuan Sheng Foo, Weisi Lin;                  
 Fine Structure-Aware Sampling: A New Sampling Training Scheme for Pixel-Aligned Implicit Models in Single-View Human Reconstruction;                         
 AAAI Conference on Artificial Intelligence (AAAI 2024);            
