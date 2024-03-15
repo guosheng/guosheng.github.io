@@ -33,8 +33,9 @@ I occasionally have openings for interns, research assistants, PhD students and 
 [Link](https://guosheng.github.io/group)
 
 ## Publications
-#### Google citations: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)    
-publication list: [Link](https://guosheng.github.io/pub)
+1. Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
+2. Conference publications: [Link](https://guosheng.github.io/pub_conference)
+3. Journal publications: [Link](https://guosheng.github.io/pub_journal)
 
 ## Services  
 1. Associate Editor for IEEE Transactions on Multimedia (TMM), 2024 - present;
