@@ -29,9 +29,6 @@ I occasionally have openings for interns, research assistants, PhD students and 
 1. Google PhD fellowship, Australia, 2014, [Link](http://google-au.blogspot.com.au/2014/06/two-australians-selected-for-google-phd.html) or [Link](http://googleresearch.blogspot.com.au/2014/06/2014-google-phd-fellowships-supporting.html).  
 2. Dean's Commendation for Doctoral Thesis Excellence, The University of Adelaide, 2014
 
-## Research group
-[Link](https://guosheng.github.io/group)
-
 ## Publications
 1. Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
 2. Conference publications: [Link](https://guosheng.github.io/pub_conference)
@@ -66,5 +63,6 @@ I occasionally have openings for interns, research assistants, PhD students and 
 4. Data Analytics and Mining, Course code: CZ/CE4032, SC4020, 2021-present, Nanyang Technological University
 5. Data Mining, Course code: SD6125, 2023-present, Nanyang Technological University
 
-
+## Research group
+Research group: [Link](https://guosheng.github.io/group)
 
