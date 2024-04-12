@@ -19,11 +19,11 @@ International Journal of Computer Vision (IJCV); 2024;
 Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
 International Journal of Computer Vision (IJCV); 2024;
 
-Lvlong Lai, Jian Chen, Guosheng Lin, Qingyao Wu;              
+- Lvlong Lai, Jian Chen, Guosheng Lin, Qingyao Wu;              
 CMNet: Component-Aware Matching Network for Few-Shot Point Cloud Classification;              
 IEEE Transactions on Multimedia (TMM), 2024;  
 
-Lai, Lvlong; Chen, Jian; Zhang, Zehong; Lin, Guosheng; Wu, Qingyao;             
+- Lvlong Lai; Jian Chen; Zehong Zhang; Guosheng Lin; Qingyao Wu;             
 CMFAN: Cross-Modal Feature Alignment Network for Few-Shot Single-View 3D Reconstruction;             
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024;                  
 
