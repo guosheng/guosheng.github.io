@@ -7,6 +7,10 @@
 
 ### 2024
 
+- Hao Wang, Guosheng Lin, Ana García del Molino, Anran Wang, Jiashi Feng, Zhigi Shen;             
+ManiCLIP: Multi-Attribute Face Manipulation from Text;             
+International Journal of Computer Vision (IJCV); 2024;
+
 - Ke Xian, Zhiguo Cao, Chunhua Shen, Guosheng Lin;          
 Towards Robust Monocular Depth Estimation: A New Baseline and Benchmark;       
 International Journal of Computer Vision (IJCV); 2024;    
@@ -15,6 +19,13 @@ International Journal of Computer Vision (IJCV); 2024;
 Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
 International Journal of Computer Vision (IJCV); 2024;
 
+Lvlong Lai, Jian Chen, Guosheng Lin, Qingyao Wu;              
+CMNet: Component-Aware Matching Network for Few-Shot Point Cloud Classification;              
+IEEE Transactions on Multimedia (TMM), 2024;  
+
+Lai, Lvlong; Chen, Jian; Zhang, Zehong; Lin, Guosheng; Wu, Qingyao;             
+CMFAN: Cross-Modal Feature Alignment Network for Few-Shot Single-View 3D Reconstruction;             
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024;                  
 
 - Hanqing Yang; Sijia Cai; Bing Deng; Jieping Ye; Guosheng Lin; Yu Zhang;                 
 Context-aware and Semantic-consistent Spatial Interactions for One-shot Object Detection without Fine-tuning;           
