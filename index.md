@@ -40,10 +40,11 @@ I occasionally have openings for interns, research assistants, PhD students and 
 3. Standard Editor for Artificial Intelligence Journal (AIJ, IF:14.05, CCF A);
 4. CVPR 2024 Area Chair;
 5. AAAI 2023/2024 Senior Program Committee (SPC) Member;
-6. IJCAI 2023 Senior Program Committee (SPC) Member;
-7. ACM Multimedia 2024 Area Chair, Open Source Software Chair;
-8. ACCV 2022 Area Chair, ACCV 2018 Local Arrangement Chair;
-9. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
+6. ACM Multimedia 2024 Area Chair, Open Source Software Chair;
+7. PRCV 2024 Senior Area Chair;           
+8. IJCAI 2023 Senior Program Committee (SPC) Member;
+9. ACCV 2022 Area Chair, ACCV 2018 Local Arrangement Chair;
+10. Reviewers for CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, TIP, TMM, TCSVT etc.  
 
 ## Research grants (selected)
 1. Singapore MOE Tier-2 research grant (PI)  
