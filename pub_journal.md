@@ -7,6 +7,11 @@
 
 ### 2024
 
+
+- Ruibo Li, Chi Zhang, Zhe Wang, Chunhua Shen, Guosheng Lin;                 
+Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior;           
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;           
+
 - Hao Wang, Guosheng Lin, Ana García del Molino, Anran Wang, Jiashi Feng, Zhigi Shen;             
 ManiCLIP: Multi-Attribute Face Manipulation from Text;             
 International Journal of Computer Vision (IJCV); 2024;
@@ -31,6 +36,9 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024;
 Context-aware and Semantic-consistent Spatial Interactions for One-shot Object Detection without Fine-tuning;           
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024;
 
+- Xiaofeng Yang, Fayao Liu, Guosheng Lin;                
+Neural Radiance Selector: Find the Best 2D Representations of 3D Data for CLIP based 3D Tasks;              
+Knowledge-Based Systems;               
 
 -----------------------------------------------------
 -----------------------------------------------------
