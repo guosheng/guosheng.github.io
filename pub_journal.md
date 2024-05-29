@@ -38,7 +38,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024;
 
 - Xiaofeng Yang, Fayao Liu, Guosheng Lin;                
 Neural Radiance Selector: Find the Best 2D Representations of 3D Data for CLIP based 3D Tasks;              
-Knowledge-Based Systems;               
+Knowledge-Based Systems (KBS), 2024;               
 
 -----------------------------------------------------
 -----------------------------------------------------
