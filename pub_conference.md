@@ -6,6 +6,9 @@
 -----------------------------------------------------
 ### 2024
 
+- Yanda Li, Chi Zhang, Gang Yu, Wanqi Yang, Zhibin Wang, BIN FU, Guosheng Lin, Chunhua Shen, Ling Chen, Yunchao Wei;            
+Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data;                       
+ACL 2024 Findings;             
 
 - Kewei Wang, Yizheng Wu, Jun CEN, Zhiyu Pan, Xingyi Li, Zhe Wang, Zhiguo Cao, Guosheng Lin;          
 Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations;                
