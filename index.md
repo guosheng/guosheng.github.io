@@ -37,7 +37,7 @@ I occasionally have openings for interns, research assistants, PhD students and 
 ## Services  
 1. Associate Editor for IEEE Transactions on Multimedia (TMM), 2024 - present;
 2. Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023 - present;
-3. Standard Editor for Artificial Intelligence Journal (AIJ, IF:14.05, CCF A);
+3. Standard Editor for Artificial Intelligence Journal;
 4. CVPR 2024 Area Chair;
 5. AAAI 2023/2024 Senior Program Committee (SPC) Member;
 6. ACM Multimedia 2024 Area Chair, Open Source Software Chair;
