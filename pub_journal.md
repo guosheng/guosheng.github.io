@@ -12,7 +12,7 @@
 Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior;           
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;
 
-Hanyu Shi, Jiacheng Wei, Hao Wang, Fayao Liu， Guosheng Lin;             
+- Hanyu Shi, Jiacheng Wei, Hao Wang, Fayao Liu， Guosheng Lin;             
 Learning Temporal Variations for 4D Point Cloud Segmentation;              
 International Journal of Computer Vision (IJCV); 2024;            
 
