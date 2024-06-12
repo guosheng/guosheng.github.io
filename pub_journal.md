@@ -10,11 +10,15 @@
 
 - Ruibo Li, Chi Zhang, Zhe Wang, Chunhua Shen, Guosheng Lin;                 
 Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior;           
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;           
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;
+
+Hanyu Shi, Jiacheng Wei, Hao Wang, Fayao Liu， Guosheng Lin;             
+Learning Temporal Variations for 4D Point Cloud Segmentation;              
+International Journal of Computer Vision (IJCV); 2024;            
 
 - Hao Wang, Guosheng Lin, Ana García del Molino, Anran Wang, Jiashi Feng, Zhigi Shen;             
 ManiCLIP: Multi-Attribute Face Manipulation from Text;             
-International Journal of Computer Vision (IJCV); 2024;
+International Journal of Computer Vision (IJCV); 2024;             
 
 - Ke Xian, Zhiguo Cao, Chunhua Shen, Guosheng Lin;          
 Towards Robust Monocular Depth Estimation: A New Baseline and Benchmark;       
