@@ -6,6 +6,22 @@
 -----------------------------------------------------
 ### 2024
 
+- Qianxiong Xu, Guosheng Lin, Chen Change Loy, Cheng Long, Ziyue Li, Rui Zhao;              
+Eliminating Feature Ambiguity for Few-Shot Segmentation;             
+European Conference on Computer Vision (ECCV) 2024;                  
+
+- Kennard Yanting Chan, Fayao Liu, Guosheng Lin, Chuan Sheng Foo, Weisi Lin;            
+3DFG-PIFu: 3D Feature Grids for Human Digitization from Sparse Views;             
+European Conference on Computer Vision (ECCV) 2024;
+
+- Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu, Guosheng Lin;       
+Learn to Optimize Denoising Scores: A Unified and Improved Diffusion Prior for 3D Generation;            
+European Conference on Computer Vision (ECCV) 2024;
+
+- Xiaojing Zhong, Xinyi Huang, Xiaofeng Yang, Guosheng Lin, Qingyao Wu;              
+DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency;             
+European Conference on Computer Vision (ECCV) 2024;                  
+
 - Yanda Li, Chi Zhang, Gang Yu, Wanqi Yang, Zhibin Wang, BIN FU, Guosheng Lin, Chunhua Shen, Ling Chen, Yunchao Wei;            
 Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data;                       
 ACL 2024 Findings;             
