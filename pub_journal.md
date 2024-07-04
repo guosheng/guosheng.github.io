@@ -7,10 +7,13 @@
 
 ### 2024
 
+- Yizheng Wu, Zhiyu Pan, Kewei Wang, Xingyi Li, Jiahao Cui, Liwen Xiao, Guosheng Lin, Zhiguo Cao;                          
+Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation;                 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;            
 
 - Ruibo Li, Chi Zhang, Zhe Wang, Chunhua Shen, Guosheng Lin;                 
 Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior;           
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;               
 
 - Hanyu Shi, Jiacheng Wei, Hao Wang, Fayao Liu， Guosheng Lin;             
 Learning Temporal Variations for 4D Point Cloud Segmentation;              
