@@ -15,6 +15,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;
 Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior;           
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;               
 
+- Mengyang Sun, Wei Suo, Peng Wang, Kai Niu, Le Liu, Guosheng Lin, Yanning Zhang, Qi Wu;            
+An Adaptive Correlation Filtering Method for Text-Based Person Search;               
+International Journal of Computer Vision (IJCV); 2024;
+
 - Hanyu Shi, Jiacheng Wei, Hao Wang, Fayao Liu， Guosheng Lin;             
 Learning Temporal Variations for 4D Point Cloud Segmentation;              
 International Journal of Computer Vision (IJCV); 2024;            
