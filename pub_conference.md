@@ -5,6 +5,23 @@
 -----------------------------------------------------
 -----------------------------------------------------
 ### 2024
+	
+
+- Xingyi Li, Yizheng Wu, Jun CEN, Juewen Peng, Kewei Wang, Ke Xian, Zhe Wang, Zhiguo Cao, Guosheng Lin;               
+iControl3D: An Interactive System for Controllable 3D Scene Generation;        
+ACM Multimedia (ACM MM) 2024;       
+
+- Wenhao Shen, Wanqi Yin, Hao Wang, Chen Wei, Zhongang Cai, Lei Yang, Guosheng Lin;        
+HMR-Adapter: A Lightweight Adapter with Dual-Path Cross Augmentation for Expressive Human Mesh Recovery;        
+ACM Multimedia (ACM MM) 2024;       
+
+- Junlin Fang, Wenya Wang, Guosheng Lin, Fengmao Lv;        
+Sentiment-Oriented Sarcasm Integration: Effective Enhancement of Video Sentiment Analysis with Sarcasm Assistance;        
+ACM Multimedia (ACM MM) 2024;       
+
+- Fengmao Lv, Changru Nie, Jianyang Zhang, Guowu Yang, Guosheng Lin, Xiao Wu, Tianrui Li;        
+Rethinking the Effect of Uninformative Class Name in Prompt Learning;        
+ACM Multimedia (ACM MM) 2024;       
 
 - Qianxiong Xu, Guosheng Lin, Chen Change Loy, Cheng Long, Ziyue Li, Rui Zhao;              
 Eliminating Feature Ambiguity for Few-Shot Segmentation;             
