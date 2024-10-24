@@ -7,6 +7,10 @@
 
 ### 2024
 
+- Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, Zihao Huang, Juewen Peng, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin;         
+NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation;        
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;            
+
 - Yizheng Wu, Zhiyu Pan, Kewei Wang, Xingyi Li, Jiahao Cui, Liwen Xiao, Guosheng Lin, Zhiguo Cao;                          
 Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation;                 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;            
@@ -34,6 +38,10 @@ International Journal of Computer Vision (IJCV); 2024;
 - Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai;       
 Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation;       
 International Journal of Computer Vision (IJCV); 2024;
+
+- Xiaosheng He, Fan Yang, Fayao Liu, Guosheng Lin;           
+Few-shot Image Generation via Style Adaptation and Content Preservation;                      
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS); 20214;              
 
 - Lvlong Lai, Jian Chen, Guosheng Lin, Qingyao Wu;              
 CMNet: Component-Aware Matching Network for Few-Shot Point Cloud Classification;              
