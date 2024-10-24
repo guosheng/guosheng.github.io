@@ -41,7 +41,7 @@ International Journal of Computer Vision (IJCV); 2024;
 
 - Xiaosheng He, Fan Yang, Fayao Liu, Guosheng Lin;           
 Few-shot Image Generation via Style Adaptation and Content Preservation;                      
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS); 20214;              
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS); 2024;              
 
 - Lvlong Lai, Jian Chen, Guosheng Lin, Qingyao Wu;              
 CMNet: Component-Aware Matching Network for Few-Shot Point Cloud Classification;              
