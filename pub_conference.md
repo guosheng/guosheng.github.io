@@ -5,7 +5,14 @@
 -----------------------------------------------------
 -----------------------------------------------------
 ### 2024
-	
+
+- Qianxiong Xu, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao;          
+Hybrid Mamba for Few-Shot Segmentation;          
+Neural Information Processing Systems (NeurIPS), 2024;                    
+
+- Fei Zhou, Peng Wang, Lei Zhang, Zhenghua Chen, Wei Wei, Chen Ding, Guosheng Lin, Yanning Zhang;           
+Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning;          
+Neural Information Processing Systems (NeurIPS), 2024;               
 
 - Xingyi Li, Yizheng Wu, Jun CEN, Juewen Peng, Kewei Wang, Ke Xian, Zhe Wang, Zhiguo Cao, Guosheng Lin;               
 iControl3D: An Interactive System for Controllable 3D Scene Generation;        
