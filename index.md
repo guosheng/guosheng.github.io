@@ -30,7 +30,7 @@ I occasionally have openings for interns, research assistants, PhD students and 
 2. Dean's Commendation for Doctoral Thesis Excellence, The University of Adelaide, 2014
 
 ## Publications
-1. Google scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
+1. Google Scholar: [Link](https://scholar.google.com/citations?user=ZudEhvcAAAAJ&hl=en)       
 2. Conference publications: [Link](https://guosheng.github.io/pub_conference)
 3. Journal publications: [Link](https://guosheng.github.io/pub_journal)
 
@@ -38,7 +38,7 @@ I occasionally have openings for interns, research assistants, PhD students and 
 1. Associate Editor for IEEE Transactions on Multimedia (TMM), 2024 - present;
 2. Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023 - present;
 3. Standard Editor for Artificial Intelligence Journal;
-4. CVPR 2024 Area Chair;
+4. CVPR 2024/2025 Area Chair;
 5. AAAI 2023/2024 Senior Program Committee (SPC) Member;
 6. ACM Multimedia 2024 Area Chair, Open Source Software Chair;
 7. PRCV 2024 Senior Area Chair;           
@@ -64,6 +64,6 @@ I occasionally have openings for interns, research assistants, PhD students and 
 4. Data Analytics and Mining, Course code: CZ/CE4032, SC4020, 2021-present, Nanyang Technological University
 5. Data Mining, Course code: SD6125, 2023-present, Nanyang Technological University
 
-## Research group
+## Research Group
 Research group: [Link](https://guosheng.github.io/group)
 
