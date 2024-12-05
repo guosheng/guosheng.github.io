@@ -7,6 +7,9 @@
 
 ### 2024
 
+- Juewen Peng, Zhiguo Cao, Member, IEEE, Xianrui Luo, Ke Xian, Wenfeng Tang, Jianming Zhang, and Guosheng Lin;           
+BokehMe++: Harmonious Fusion of Classical and Neural Rendering for Versatile Bokeh Creation;           
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;         
 
 - Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, Zihao Huang, Juewen Peng, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin;         
 NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation;        
