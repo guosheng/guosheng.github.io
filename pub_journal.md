@@ -7,6 +7,7 @@
 
 ### 2024
 
+
 - Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, Zihao Huang, Juewen Peng, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin;         
 NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation;        
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;            
@@ -18,6 +19,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;
 - Ruibo Li, Chi Zhang, Zhe Wang, Chunhua Shen, Guosheng Lin;                 
 Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior;           
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024;               
+
+- Chaoyue Song, Jiacheng Wei, Tianyi Chen, Yiwen Chen, Chuan-Sheng Foo, Fayao Liu, Guosheng Lin;                
+MoDA: Modeling Deformable 3D Objects from Casual Videos;              
+International Journal of Computer Vision (IJCV); 2024;            
 
 - Mengyang Sun, Wei Suo, Peng Wang, Kai Niu, Le Liu, Guosheng Lin, Yanning Zhang, Qi Wu;            
 An Adaptive Correlation Filtering Method for Text-Based Person Search;               
