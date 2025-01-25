@@ -6,7 +6,7 @@
 -----------------------------------------------------
 ### 2025
 
--Yiwen Chen, Tong He, Di Huang, Weicai Ye, Sijin Chen, Jiaxiang Tang, Zhongang Cai, Lei Yang, Gang Yu, Guosheng Lin, Chi Zhang;               
+- Yiwen Chen, Tong He, Di Huang, Weicai Ye, Sijin Chen, Jiaxiang Tang, Zhongang Cai, Lei Yang, Gang Yu, Guosheng Lin, Chi Zhang;               
 MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers;                
 International Conference on Learning Representations (ICLR), 2025;           
 
