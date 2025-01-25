@@ -4,6 +4,31 @@
 
 -----------------------------------------------------
 -----------------------------------------------------
+### 2025
+
+-Yiwen Chen, Tong He, Di Huang, Weicai Ye, Sijin Chen, Jiaxiang Tang, Zhongang Cai, Lei Yang, Gang Yu, Guosheng Lin, Chi Zhang;               
+MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers;                
+International Conference on Learning Representations (ICLR), 2025;           
+
+- Xiaofeng Yang, Chen Cheng, Xulei Yang, Fayao Liu, Guosheng Lin;               
+Text-to-Image Rectified Flow as Plug-and-Play Priors;                
+International Conference on Learning Representations (ICLR), 2025;
+
+- Kennard Chan, Fayao Liu, Guosheng Lin, Chuan-Sheng Foo, Weisi Lin;                
+Robust-PIFu: Robust Pixel-aligned Implicit Function for 3D Human Digitalization from a Single Image;                
+International Conference on Learning Representations (ICLR), 2025;           
+
+- Ze Yang, Shichao Dong, Ruibo Li, Nan Song, Guosheng Lin;                
+ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation;           
+International Conference on Learning Representations (ICLR), 2025;           
+
+- Xiaojing Zhong, Zhonghua Wu, Xiaofeng Yang, Guosheng Lin, Qingyao Wu;               
+IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter;                
+AAAI Conference on Artificial Intelligence (AAAI), 2025;          
+
+
+-----------------------------------------------------
+-----------------------------------------------------
 ### 2024
 
 - Qianxiong Xu, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao;          
