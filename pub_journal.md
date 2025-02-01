@@ -5,6 +5,11 @@
 -----------------------------------------------------
 
 ### 2025
+
+- Xianrui Luo, Zijin Wu, Juewen Peng, Huiqiang Sun, Zhiguo Cao, Guosheng Lin;        
+Dual-Camera All-in-Focus Neural Radiance Fields;        
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;          
+
 - Hanyu Shi, Fayao Liu, Zhonghua Wu, Yi Xu, and Guosheng Lin;     
 Weakly Supervised Segmentation on Outdoor 4D Point Clouds with Progressive 4D Grouping;     
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;    
