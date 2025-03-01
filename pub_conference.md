@@ -6,8 +6,28 @@
 -----------------------------------------------------
 ### 2025
 
+- Yiran Wang, Jiaqi Li, Chaoyi Hong, Ruibo Li, Liusheng Sun, Xiao Song, Zhe Wang, Zhiguo Cao, Guosheng Lin;       
+TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion;    
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
+
+- Fan Yang, Jianfeng Zhang, Jun Hao Liew, Chaoyue Song, Zhongcong Xu, Xiu Li, Jiashi Feng, Guosheng Lin;     
+Dense-To-Sparse Video Diffusion For High-fidelity Multi-View Images Synthesis;    
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
+
+- Chaoyue Song, Jianfeng Zhang, Xiu Li, Fan Yang, Yiwen Chen, Zhongcong Xu, Jun Hao Liew, Xiaoyang Guo, Fayao Liu, Jiashi Feng, Guosheng Lin;     
+MagicArticulate: Make Your 3D Models Articulation-Ready;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
+
+- Jianyang Zhang, Qianli Luo, Guowu Yang, Wenjing Yang, Weide Liu, Guosheng Lin, Fengmao Lv;     
+Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
+
+- Cheng Chen, Jiacheng Wei, Tianrun Chen, Chi Zhang, Xiaofeng Yang, Shangzhan Zhang, Bingchen Yang, Chuan-Sheng Foo, Guosheng Lin, Qixing Huang, Fayao Liu;    
+CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;        
+
 - Yiwen Chen, Tong He, Di Huang, Weicai Ye, Sijin Chen, Jiaxiang Tang, Zhongang Cai, Lei Yang, Gang Yu, Guosheng Lin, Chi Zhang;               
-MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers;                
+MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers;                    
 International Conference on Learning Representations (ICLR), 2025;           
 
 - Xiaofeng Yang, Chen Cheng, Xulei Yang, Fayao Liu, Guosheng Lin;               
@@ -25,6 +45,10 @@ International Conference on Learning Representations (ICLR), 2025;
 - Xiaojing Zhong, Zhonghua Wu, Xiaofeng Yang, Guosheng Lin, Qingyao Wu;               
 IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter;                
 AAAI Conference on Artificial Intelligence (AAAI), 2025;          
+
+- Muqing Cao, Xinhang Xu, Yizhuo Yang, Jianping Li, Tongxing Jin, Pengfei Wang, Tzu-Yi Hung, Guosheng Lin, Lihua Xie;         
+Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation;
+IEEE International Conference on Robotics & Automation (ICRA), 2025;
 
 
 -----------------------------------------------------
