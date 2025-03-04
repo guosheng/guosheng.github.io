@@ -22,7 +22,7 @@ I occasionally have openings for interns, research assistants, PhD students and 
 1. 2023 - present: Associate Professor with Tenure, Nanyang Technological University, Singapore.  
 2. 2017 - 2023: Assistant Professor, Nanyang Technological University, Singapore.  
 3. 2014 - 2017: Research Fellow, Australian Centre for Robotic Vision (ACRV), The University of Adelaide. Closely working with Prof. Chunhua Shen, Prof. Ian Reid, and Prof. Anton v.d. Hengel  
-4. 2010 - 2014: PhD, The University of Adelaide, Australia; Supervisors: Prof. Chunhua Shen (principal), Prof. David Suter and Assoc Prof. Tat-Jun Chin.  
+4. 2010 - 2014: PhD, The University of Adelaide, Australia; Supervisors: Prof. Chunhua Shen (principal), Prof. David Suter and Prof. Tat-Jun Chin.  
 5. 2003 - 2007; 2007 - 2010: B.Eng and M.Eng, respectively, from South China University of Technology, Guangzhou, China.
 
 ## Awards  
@@ -49,13 +49,14 @@ I occasionally have openings for interns, research assistants, PhD students and 
 ## Research grants (selected)
 1. Singapore MOE Tier-2 research grant (PI)  
 2. AI.Singapore research grant (PI)
-3. A*star MTC research grants (PI)
+3. A*STAR MTC research grants (PI)
 4. Delta-NTU Corp Lab research grants (PI)  
 5. S-lab Research Grants (PI)  
 6. Alibaba-NTU research grant (PI)
 7. Webank-NTU research grant (PI)
 8. Hyundai research grant (PI)
 9. OPPO research grant (PI)
+10. Tencent-NTU research grant (PI)
 
 ## Teaching  
 1. Introduction to Statistical Machine Learning (COMP SCI 4401/7401), 2015/2016, University of Adelaide (Guest lecturer)
