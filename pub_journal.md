@@ -6,6 +6,10 @@
 
 ### 2025
 
+- Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;          
+Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization;          
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;          
+
 - Xianrui Luo, Zijin Wu, Juewen Peng, Huiqiang Sun, Zhiguo Cao, Guosheng Lin;        
 Dual-Camera All-in-Focus Neural Radiance Fields;        
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;          
