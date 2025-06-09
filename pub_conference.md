@@ -6,6 +6,14 @@
 -----------------------------------------------------
 ### 2025
 
+- Qianxiong Xu, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao;    
+Unlocking the Power of SAM 2 for Few-Shot Segmentation;     
+International Conference on Machine Learning (ICML) 2025;     
+
+- Wenhao Shen, Wanqi Yin, Xiaofeng Yang, Cheng Chen, Chaoyue Song, Zhongang Cai, Lei Yang, Hao Wang, Guosheng Lin;     
+ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization;     
+International Conference on Machine Learning (ICML) 2025;     
+
 - Yiran Wang, Jiaqi Li, Chaoyi Hong, Ruibo Li, Liusheng Sun, Xiao Song, Zhe Wang, Zhiguo Cao, Guosheng Lin;       
 TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion;    
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
