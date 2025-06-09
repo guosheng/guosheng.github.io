@@ -4,7 +4,15 @@
 -----------------------------------------------------
 -----------------------------------------------------
 
-### 2025
+### 2025     
+
+- Bingchen Yang, Haiyong Jiang, Hao Pan, Peter Wonka, Jun Xiao, Guosheng Lin;          
+PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction;          
+Transactions on Graphics (TOG), 2025;          
+
+- Dynamic View Synthesis from Small Camera Motion Videos;          
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025;           
+Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian, Guosheng Lin;   
 
 - Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;          
 Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization;          
