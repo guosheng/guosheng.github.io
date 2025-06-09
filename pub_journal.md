@@ -6,14 +6,6 @@
 
 ### 2025     
 
-- Bingchen Yang, Haiyong Jiang, Hao Pan, Peter Wonka, Jun Xiao, Guosheng Lin;          
-PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction;          
-Transactions on Graphics (TOG), 2025;          
-
-- Dynamic View Synthesis from Small Camera Motion Videos;          
-IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025;           
-Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian, Guosheng Lin;   
-
 - Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;          
 Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization;          
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;          
@@ -25,6 +17,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;
 - Hanyu Shi, Fayao Liu, Zhonghua Wu, Yi Xu, and Guosheng Lin;     
 Weakly Supervised Segmentation on Outdoor 4D Point Clouds with Progressive 4D Grouping;     
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;    
+
+- Bingchen Yang, Haiyong Jiang, Hao Pan, Peter Wonka, Jun Xiao, Guosheng Lin;          
+PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction;          
+Transactions on Graphics (TOG), 2025;          
+
+- Dynamic View Synthesis from Small Camera Motion Videos;          
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025;           
+Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian, Guosheng Lin;
 
 -----------------------------------------------------
 -----------------------------------------------------
