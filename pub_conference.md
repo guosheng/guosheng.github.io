@@ -18,10 +18,6 @@ International Conference on Machine Learning (ICML) 2025;
 TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion;    
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
 
-- Fan Yang, Jianfeng Zhang, Jun Hao Liew, Chaoyue Song, Zhongcong Xu, Xiu Li, Jiashi Feng, Guosheng Lin;     
-Dense-To-Sparse Video Diffusion For High-fidelity Multi-View Images Synthesis;    
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
-
 - Chaoyue Song, Jianfeng Zhang, Xiu Li, Fan Yang, Yiwen Chen, Zhongcong Xu, Jun Hao Liew, Xiaoyang Guo, Fayao Liu, Jiashi Feng, Guosheng Lin;     
 MagicArticulate: Make Your 3D Models Articulation-Ready;     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025;    
