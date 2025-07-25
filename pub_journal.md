@@ -22,9 +22,19 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;
 PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction;          
 Transactions on Graphics (TOG), 2025;          
 
-- Dynamic View Synthesis from Small Camera Motion Videos;          
+- Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian, Guosheng Lin;
+Dynamic View Synthesis from Small Camera Motion Videos;          
 IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025;           
-Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian, Guosheng Lin;
+
+
+- Wenmian Yang, Mohamed Ragab, Min Wu, Sinno Jialin Pan, Guosheng Lin, Weijia Jia, Zhenghua Chen;           
+Boosting Time-series Domain Adaptation via A Time-Frequency Consensus Framework;           
+IEEE Transactions on Artificial Intelligence, 2025;            
+
+
+- Bingliang Jiao, Lingqiao Liu, Liying Gao, Dapeng Oliver Wu, Guosheng Lin, Peng Wang, Yanning Zhang;                 
+Generalizable Person Re-Identification From a 3D Perspective: Addressing Unpredictable Viewpoint Changes;             
+IEEE Transactions on Information Forensics and Security, 2025;            
 
 -----------------------------------------------------
 -----------------------------------------------------
