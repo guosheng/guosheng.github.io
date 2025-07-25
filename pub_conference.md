@@ -6,6 +6,23 @@
 -----------------------------------------------------
 ### 2025
 
+- Zihui Gao, Jia-Wang Bian, Guosheng Lin, Hao Chen, Chunhua Shen;    
+SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting;    
+International Conference on Computer Vision (ICCV), 2025;    
+
+- Xinyao Liao, Xianfang Zeng, Liao Wang, Gang YU, Guosheng Lin, Chi Zhang;    
+MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent;    
+International Conference on Computer Vision (ICCV), 2025;    
+
+- Fei Zhou, Peng Wang, Lei Zhang, Wei Wei, Chen Ding, Guosheng Lin, Yanning Zhang;    
+Towards Effective Foundation Model Adaptation for Extreme Cross-Domain Few-Shot Learning;    
+International Conference on Computer Vision (ICCV), 2025;    
+
+- Yiwen Chen, Yikai Wang, Yihao Luo, Zhengyi Wang, Zilong Chen, Jun Zhu, Chi Zhang, Guosheng Lin;
+MeshAnything V2: Artist-Created Mesh Generation with Adjacent Mesh Tokenization;    
+International Conference on Computer Vision (ICCV), 2025;    
+
+
 - Qianxiong Xu, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao;    
 Unlocking the Power of SAM 2 for Few-Shot Segmentation;     
 International Conference on Machine Learning (ICML) 2025;     
