@@ -7,16 +7,26 @@
 ### 2026    
 
 
-- Lili Meng, Jian Jin, Yingnan Wang, Miaohui Wang, Guosheng Lin, Cheng Liang, Jiande Sun, Huaxiang Zhang, Weisi Lin;     
-Boosting the No-Reference Image Quality Assessment via Low-Quality Pseudo References;
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026;       
+- Lili Meng, Jian Jin, Yingnan Wang, Miaohui Wang, Guosheng Lin, Cheng Liang, Jiande Sun, Huaxiang Zhang, Weisi Lin;        
+Boosting the No-Reference Image Quality Assessment via Low-Quality Pseudo References;    
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026;         
 
+-  Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, Bin Fu, Tao Chen, Guosheng Lin, Chunhua Shen;   
+StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation;    
+IEEE Journal of Selected Topics in Signal Processing, 2026;     
 
+- Xiaojing Zhong, Yukun Su, Zhonghua Wu, Guosheng Lin, Qingyao Wu;        
+DI-Net : Decomposed implicit garment transfer network for digital clothed 3D human;     
+Pattern Recognition, 2026;      
 
 -----------------------------------------------------
 -----------------------------------------------------
 
 ### 2025     
+
+- Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving;         
+Ruibo Li, Hanyu Shi, Zhe Wang, Guosheng Lin;
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;    
 
 - Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;          
 Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization;          
@@ -34,6 +44,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;
 PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction;          
 Transactions on Graphics (TOG), 2025;          
 
+- Yizheng Wu, Hongwei Fan, Kewei Wang, Ruibo Li, Xingyi Li, Xiao Song, Zhe Wang, Chenjing Ding,
+Dongliang Wang, Zhiguo Cao, Guosheng Lin;       
+Synthetic-to-Real Translation for Class-Agnostic Motion Prediction;
+IEEE Transactions on Multimedia (TMM), 2025;  
+
+
 - Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian, Guosheng Lin;
 Dynamic View Synthesis from Small Camera Motion Videos;          
 IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025;           
@@ -47,6 +63,14 @@ IEEE Transactions on Artificial Intelligence, 2025;
 - Bingliang Jiao, Lingqiao Liu, Liying Gao, Dapeng Oliver Wu, Guosheng Lin, Peng Wang, Yanning Zhang;                 
 Generalizable Person Re-Identification From a 3D Perspective: Addressing Unpredictable Viewpoint Changes;             
 IEEE Transactions on Information Forensics and Security, 2025;            
+
+- Xiaojing Zhong, Xinyi Huang, Zhonghua Wu, Guosheng Lin, Qingyao Wu;      
+SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization;      
+Computer Vision and Image Understanding, 2025;       
+
+- Weide Liu, Zhonghua Wu, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin, Wei Zhou;     
+Exploiting independent query information for few-shot image segmentation;      
+Displays, 2025;      
 
 -----------------------------------------------------
 -----------------------------------------------------
