@@ -6,12 +6,12 @@
 -----------------------------------------------------
 ### 2026
 
-Wenhao Shen, Hao Wang, Wanqi Yin, Fayao Liu, Xulei Yang, Chao Liang, Zhongang Cai, Guosheng Lin;    
+- Wenhao Shen, Hao Wang, Wanqi Yin, Fayao Liu, Xulei Yang, Chao Liang, Zhongang Cai, Guosheng Lin;    
 VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery;     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026;    
 
 
-Zhoujie Fu, Xianfang Zeng, jinghong lan, Xinyao Liao, Cheng Chen, Junyi Chen, Jiacheng Wei, Wei Cheng, Shiyu Liu, Yunuo Chen, Gang YU, Guosheng Lin;       
+- Zhoujie Fu, Xianfang Zeng, jinghong lan, Xinyao Liao, Cheng Chen, Junyi Chen, Jiacheng Wei, Wei Cheng, Shiyu Liu, Yunuo Chen, Gang YU, Guosheng Lin;       
 iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation;     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026;
 
