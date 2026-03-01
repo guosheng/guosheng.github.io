@@ -4,7 +4,39 @@
 
 -----------------------------------------------------
 -----------------------------------------------------
+### 2026
+
+Wenhao Shen, Hao Wang, Wanqi Yin, Fayao Liu, Xulei Yang, Chao Liang, Zhongang Cai, Guosheng Lin;    
+VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026;    
+
+
+Zhoujie Fu, Xianfang Zeng, jinghong lan, Xinyao Liao, Cheng Chen, Junyi Chen, Jiacheng Wei, Wei Cheng, Shiyu Liu, Yunuo Chen, Gang YU, Guosheng Lin;       
+iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation;     
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026;
+
+- Ruibo Li, Xiaofeng Yang, Ze Yang, Jiacheng Wei, Chunyan Miao, Guosheng Lin;     
+Adaptive Piecewise Distillation for Efﬁcient LiDAR Data Generation;     
+AAAI Conference on Artificial Intelligence (AAAI), 2026;            
+
+
+- Fan Yang, Jianfeng Zhang, Jun Hao Liew, Chaoyue Song, Zhongcong Xu, Jiashi Feng, Guosheng Lin;   
+Unlocking the Video Prior for High Fidelity Sparse Multi-View Image Synthesis;      
+International Conference on 3D Vision (3DV), 2026;
+
+
+-----------------------------------------------------
+-----------------------------------------------------
 ### 2025
+
+- Chaoyue Song, Xiu Li, Fan Yang, Zhongcong Xu, Jiacheng Wei, Fayao Liu, Jiashi Feng, Guosheng Lin, Jianfeng Zhang;
+Puppeteer: Rig and Animate Your 3D Models;       
+Neural Information Processing Systems (NeurIPS), 2025;            
+
+- Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng ZHENG, Jianyang Zhang, Tianrui Li;     
+Efficiently Maintaining the Multilingual Capacity of MCLIP in Downstream Cross-Modal Retrieval Tasks;
+Neural Information Processing Systems (NeurIPS), 2025;       
+
 
 - Zihui Gao, Jia-Wang Bian, Guosheng Lin, Hao Chen, Chunhua Shen;    
 SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting;    
@@ -67,10 +99,12 @@ International Conference on Learning Representations (ICLR), 2025;
 IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter;                
 AAAI Conference on Artificial Intelligence (AAAI), 2025;          
 
-- Muqing Cao, Xinhang Xu, Yizhuo Yang, Jianping Li, Tongxing Jin, Pengfei Wang, Tzu-Yi Hung, Guosheng Lin, Lihua Xie;         
-Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation;
-IEEE International Conference on Robotics & Automation (ICRA), 2025;
+- Muqing Cao, Xinhang Xu, Yizhuo Yang, Jianping Li, Tongxing Jin, Pengfei Wang, Tzu-Yi Hung, Guosheng Lin, Lihua Xie;        Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation;
+IEEE International Conference on Robotics & Automation (ICRA), 2025;      
 
+- Changsheng Gao, Wei Zhou, Guosheng Lin, Weisi Lin;       
+Compressed Feature Quality Assessment: Dataset and Baselines;     
+ACMMM 2025 Datasets Track;     
 
 -----------------------------------------------------
 -----------------------------------------------------
