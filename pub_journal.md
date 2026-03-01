@@ -25,7 +25,7 @@ Pattern Recognition, 2026;
 ### 2025     
 
 - Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving;         
-Ruibo Li, Hanyu Shi, Zhe Wang, Guosheng Lin;
+Ruibo Li, Hanyu Shi, Zhe Wang, Guosheng Lin;       
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025;    
 
 - Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;          
