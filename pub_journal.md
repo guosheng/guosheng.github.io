@@ -4,6 +4,18 @@
 -----------------------------------------------------
 -----------------------------------------------------
 
+### 2026    
+
+
+- Lili Meng, Jian Jin, Yingnan Wang, Miaohui Wang, Guosheng Lin, Cheng Liang, Jiande Sun, Huaxiang Zhang, Weisi Lin;     
+Boosting the No-Reference Image Quality Assessment via Low-Quality Pseudo References;
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026;       
+
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+
 ### 2025     
 
 - Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou;          
